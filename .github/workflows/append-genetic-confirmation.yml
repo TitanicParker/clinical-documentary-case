@@ -74,3 +74,5 @@ EOF
           git add complete-record.md
           git commit -m "Append 2026 Parkin genetic confirmation to complete record"
           git push
+
+# Merge trigger marker.
