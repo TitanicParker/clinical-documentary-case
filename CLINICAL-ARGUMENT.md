@@ -1,166 +1,696 @@
-# Documentary Clinical Argument
+# \# Clinical Documentary Case — Argument
 
-## 1. Central issue
+# 
 
-The documentary case is not that the patient had either Parkinsonism or a separate foot disorder. The record supports both neurological disease and genuine structural foot pathology. The central issue is whether the evolving relationship between those two streams was recognised, reassessed and managed coherently over time.
+# \*\*Status:\*\* Documentary clinical argument derived from `FACTS.md`, `TENSIONS.md`, `PROPOSITIONS.md` and `EXPERT-QUESTIONS.md`.
 
-The strongest documentary question is therefore one of longitudinal integration: whether recurrent focal foot pathology, abnormal gait, parkinsonian or dystonic lower-limb phenomena, pain, medication response and later OFF-state interpretations were brought into a progressively coherent clinical model, or whether an early structural/neurological partition remained operational after evidence accumulated against treating the streams as cleanly separate.
+# 
 
-## 2. The starting position in 2017 was clinically mixed
+# > \*\*Control rule:\*\* This document states the strongest argument reasonably available from the clinical record. It does not itself determine breach of duty, negligence, legal causation, damages or the answer to questions requiring independent specialist opinion.
 
-The early record already contained two categories of evidence.
+# 
 
-On the structural side, the patient had bilateral foot pain, mallet or clawed toes, callus and pressure lesions, nail pathology and later repeated podiatric findings requiring offloading and orthotic management.
+# \---
 
-On the neurological side, the same period documented difficulty initiating movement, increased tone, bradykinesia, impaired dexterity, abnormal gait and a subsequent diagnosis of very-young-onset Parkinsonism supported by an abnormal DaTSCAN.
+# 
 
-That combination made parallel neurological and podiatric management reasonable at the outset. The documentary case does not depend on proving that all foot symptoms were neurological from the beginning.
+# \# 1. The central issue
 
-**Relevant propositions:** PROP-0001, PROP-0002
+# 
 
-## 3. The 2017–2018 treatment-response sequence weakened a clean separation
+# The strongest case is not that every historical foot symptom was caused by Parkinsonism, that Podiatry treatment was inappropriate, or that levodopa necessarily should have been commenced in July 2017.
 
-The 2017 response to procyclidine and rasagiline was striking. The patient contemporaneously described restoration of walking, writing, upright posture, leg looseness and broader movement. During planned procyclidine withdrawal he reported increasing tension, restless feet and deterioration of gait.
+# 
 
-The later 2018 neurology record adds a particularly important detail: during that two-week withdrawal, the first thing recorded as changing rapidly was the return of the outside-left-foot phenomenon, while the patient also became more "shifty" and "unrelaxed" off procyclidine.
+# The stronger and more defensible case is longitudinal.
 
-This does not prove that a corn or pressure lesion was itself neurologically generated. It does establish that the foot/lower-limb presentation was clinically linked to neurological treatment state strongly enough to require interpretation.
+# 
 
-The question is therefore not whether procyclidine proved causation. It is whether this pattern should have altered the confidence with which the foot problem was treated as separate.
+# The record began with an unusual young-onset neurological presentation in which substantial foot pathology, abnormal gait, increased tone, bradykinesia, dystonic-looking lower-limb posture and structural abnormalities coexisted. The treating neurologist expressly recorded that the relationship between important parts of that presentation was \*\*“Not clear.”\*\*
 
-**Relevant propositions:** PROP-0003, PROP-0004
+# 
 
-## 4. The foot record remained structurally real
+# The principal question is therefore:
 
-Podiatry continued to document callus, clawing, focal fifth-metatarsophalangeal pathology, pronation and recurrent need for mechanical offloading. Those findings cannot simply be reclassified as neurological symptoms.
+# 
 
-But structural findings answer a different question from upstream causation. A corn or callus establishes a local lesion; it does not establish why pressure repeatedly arose. In a patient with rigidity, abnormal tone, dystonia and altered gait, a lesion could be independent, neurologically aggravated, or partly downstream from abnormal loading.
+# > \*\*Whether, and at what point, accumulating clinical evidence required explicit reassessment of that original unresolved relationship and of the associated strategy of prolonged dopaminergic restraint.\*\*
 
-The documentary case is therefore strongest when it preserves both propositions at once: the structural pathology was genuine, and its relationship to the neurological disorder remained clinically material.
+# 
 
-**Relevant propositions:** PROP-0001, PROP-0002, PROP-0013
+# \---
 
-## 5. Later records further destabilised the original partition
+# 
 
-The later neurological record contains increasingly explicit evidence that the two streams overlapped.
+# \# 2. The presentation entered Neurology as one evolving problem
 
-In 2020, a lower-limb "foot throw" that resembled foot drop was expressly classified as parkinsonian because power was normal. The same passage recorded exquisite foot sensitivity, excessive movement and an urge to move the feet.
+# 
 
-In 2023, the treating neurologist suspected that much evening inability to walk reflected lack of levodopa. A Parkinson's nurse separately assessed the patient as undertreated and recorded the leg pain and shuffling as OFF-related. The consultant also documented a "misalignment" between his own belief that much of the presentation was explainable by Parkinson's disease and the patient's reasonable concern that much of it related to the feet separately.
+# Before admission, the GP record did not present Parkinsonism and the feet as two already settled and unrelated disorders.
 
-These entries do not retrospectively prove a single generator. They do, however, make explicit reassessment of the earlier symptom partition the central longitudinal issue.
+# 
 
-**Relevant propositions:** PROP-0004, PROP-0012, PROP-0014
+# The chronology developed from bilateral foot pain and abnormal gait into impaired initiation of movement, concern about gait, feet and “muscle tension,” marked increased tone in both legs, brisk reflexes, worsening dexterity, toe clawing and work-related functional failure.
 
-## 6. Levodopa was consciously deferred
+# 
 
-The record is clear that levodopa was not overlooked. It was deliberately postponed because of the patient's exceptional youth and concern about dyskinesia and behavioural complications.
+# This led to neurological referral.
 
-The strategy was discussed with the patient, and later adverse effects on dopaminergic treatment demonstrate that treatment sensitivity was real.
+# 
 
-The proper expert question is therefore not whether clinicians had a reason to be cautious. They plainly did. The question is whether that degree of caution remained proportionate throughout the years of deferral.
+# The importance of the pre-admission record is not that it proves one cause. It establishes that the patient entered neurological assessment with an \*\*integrated but unexplained clinical presentation\*\*.
 
-**Relevant propositions:** PROP-0005, PROP-0006, PROP-0007
+# 
 
-## 7. The record itself recognised foregone symptomatic benefit
+# \---
 
-The same early record that justified delay stated that the patient might do very well with levodopa and that clinicians might later regret not starting it earlier.
+# 
 
-In 2018, the neurologist went further and recorded that the patient "could be very much better" if given levodopa or another dopamine agonist, while still stating that the team did not want to do so for quite some time.
+# \# 3. July 2017 preserved both structural and neurological explanations
 
-These are not external criticisms imposed on the record. They are contemporaneous acknowledgements within the treating team's own reasoning that restraint carried a possible functional cost.
+# 
 
-By 2021 the patient felt undertreated and levodopa was introduced. By 2023 the clinical record contains explicit assessments linking lack of levodopa to walking difficulty and OFF-related pain/shuffling.
+# The neurological examination documented severe young-onset Parkinsonism.
 
-**Relevant propositions:** PROP-0008, PROP-0012
+# 
 
-## 8. Disease-progression neutrality is not the same question as symptomatic harm
+# It also documented a strikingly abnormal gait with a footdrop-like appearance considered suggestive of dystonic posture and expressly recorded as \*\*“NOT FOOT DROP.”\*\*
 
-The 2017 neurology record expressly stated that delaying symptomatic treatment would not disadvantage the patient from the neuropathological or progression perspective.
+# 
 
-Even if that proposition was entirely correct, it does not resolve the question whether the patient experienced avoidable rigidity, gait impairment, pain, OFF symptoms, loss of function or reduced quality of life while symptomatic treatment was being deferred.
+# At the same time there was genuine structural pathology, including pes planus, hammertoes, corns, callouses and foot pain.
 
-The documentary argument should therefore keep these issues separate. A strategy can be neutral as to neurodegeneration while still carrying a substantial symptomatic cost.
+# 
 
-**Relevant propositions:** PROP-0009
+# The record therefore did not present a simple choice between “neurological” and “structural.”
 
-## 9. Later dyskinesia both supports and complicates the original rationale
+# 
 
-Subsequent chorea, dyskinesia and compulsive-behaviour concerns demonstrate genuine dopaminergic sensitivity. That evidence materially supports the legitimacy of caution.
+# Both were real.
 
-But in 2022 the neurologist also recorded that delayed-start evidence indicated Sinemet may fuel or reveal dyskinesia but does not cause it, attributing the underlying susceptibility to impaired dopamine handling.
+# 
 
-That creates an expert issue rather than a documentary conclusion. The later formulation may be fully consistent with avoiding excessive exposure in a highly sensitive young patient. Alternatively, it may mean that the long-term protective value attributed to prolonged levodopa deferral was overstated.
+# Most importantly, Neurology did not document that the foot symptoms were neurologically unrelated. The possible relationship between leg symptoms, corns, callouses and burning was expressly recorded as:
 
-A second distinction is essential: later adverse effects can inform the assessment of biological sensitivity, but they cannot automatically prove that every earlier period of restraint was proportionate. Earlier decisions must be assessed against what was known at the time.
+# 
 
-**Relevant propositions:** PROP-0006, PROP-0007, PROP-0010
+# > \*\*“Not clear.”\*\*
 
-## 10. Genetic suspicion was potentially management-relevant
+# 
 
-In 2017 Prof Daniel Healy considered PARK2 sufficiently likely to recommend testing and linked that suspected genotype with the possibility of prolonged management on relatively low doses of dopamine replacement and dyskinesia if over-used.
+# That is the correct documentary starting point.
 
-In 2018, the treating neurologist said genetic testing did not particularly change current management and preferred delay, while also acknowledging possible relevance to prognostication and levodopa sensitivities and expressly accepting that there was reasonable logic to performing PARK2/PRKN testing or the panel immediately.
+# 
 
-The question is therefore narrower than whether earlier testing would certainly have changed treatment. It is whether genetic information was potentially relevant to the very risk-benefit balance being used to justify treatment restraint.
+# \---
 
-**Relevant propositions:** PROP-0011
+# 
 
-## 11. Pain must be analysed mechanistically
+# \# 4. Podiatry treatment was justified but did not resolve the unanswered neurological question
 
-The record does not support a simple binary choice between "Parkinson's pain" and "foot pain."
+# 
 
-Potentially relevant mechanisms include focal corn and callus pathology, clawing and altered foot mechanics, abnormal gait and loading, painful dystonia, OFF-state dystonia, peripheral neuropathic processes, central or non-motor pain amplification and secondary musculoskeletal effects.
+# The structural pathway had a genuine clinical object.
 
-The repeated association between medication state and pain or foot relief is clinically important, but the 2025 neurologist expressly cautioned that Sinemet can reduce the experience of pain even where the primary pain generator is unrelated to Parkinson's disease. The same note accepted painful dystonia as a Parkinsonian possibility while stating that the pain then described was not viewed as direct Parkinson's phenomenology.
+# 
 
-Medication response is therefore relevant but not specific. The expert task is to determine which mechanism or combination best fits the longitudinal pattern.
+# Podiatry repeatedly documented pathology at the left fifth MTPJ, together with callus/corn formation, toe deformity and mechanical treatment. Debridement, enucleation, offloading, insoles and toe props were used. Some local interventions were reported as effective.
 
-**Relevant propositions:** PROP-0013
+# 
 
-## 12. What the documentary case establishes without expert opinion
+# This is powerful evidence against an argument that the foot disorder was simply or exclusively neurological.
 
-The record itself establishes that:
+# 
 
-- structural foot pathology was genuine and recurrent;
-- Parkinsonism was established and affected gait, tone and movement;
-- neurological treatment produced marked changes in motor function and was repeatedly associated with changes in foot/lower-limb symptoms;
-- the 2018 record specifically linked procyclidine withdrawal with rapid return of the outside-left-foot phenomenon;
-- a 2020 foot throw was expressly classified as parkinsonian despite resembling foot drop;
-- levodopa was deliberately deferred for years because of anticipated treatment complications;
-- the treating neurologist expressly acknowledged substantial possible benefit from levodopa during the period of deferral;
-- genuine dyskinesia and behavioural concerns later occurred;
-- the patient subsequently felt undertreated;
-- by 2023 both consultant and nurse documentation linked insufficient levodopa/OFF state with important walking and pain symptoms;
-- genetic testing was considered both deferrable and potentially relevant to levodopa sensitivity;
-- and the relationship between the foot disorder and Parkinsonism remained disputed or incompletely resolved over time.
+# But the converse does not follow.
 
-Those are documentary propositions. They do not themselves establish negligence.
+# 
 
-## 13. What requires expert opinion
+# The existence of genuine structural disease does not establish what caused recurrent abnormal loading, clawing, gait disturbance or the full pain phenotype.
 
-Expert evidence is required to determine:
+# 
 
-- whether the structural foot pathology was caused or materially aggravated by dystonia, rigidity or abnormal gait;
-- the diagnostic significance of the 2017–2018 treatment-response and withdrawal sequence;
-- when, if ever, the original structural/neurological partition should have been reconsidered;
-- whether the duration of levodopa deferral was proportionate at each stage;
-- whether earlier levodopa would probably have produced meaningful functional benefit;
-- whether delaying levodopa had a material symptomatic cost despite being neutral as to disease progression;
-- how later dyskinesia should affect evaluation of earlier decisions;
-- whether genetic testing could reasonably have altered management;
-- the most likely mechanism or combination of mechanisms for the longstanding foot pain;
-- whether and when the patient was clinically undertreated;
-- and whether the overall longitudinal management remained coherent as the evidence changed.
+# The practical allocation of the feet to Podiatry therefore cannot itself be treated as proof that the earlier neurological uncertainty had been resolved.
 
-## 14. Overall documentary position
+# 
 
-The strongest case presented by the documents is not that one isolated clinical decision was necessarily wrong. It is that the record contains an accumulating sequence of evidence capable of destabilising two enduring assumptions: first, that the foot problem could remain substantially separate from the Parkinsonian disorder; and second, that prolonged dopaminergic restraint remained the appropriate balance throughout the patient's early course.
+# The clinically important distinction is:
 
-The expert questions should therefore pivot on **timing**: when, if ever, did the evidence become strong enough that a reasonable clinician should have changed the symptom model, investigation plan or treatment strategy?
+# 
 
-That preserves the strongest feature of the documentary case. It does not ask the expert to ratify a pre-written allegation. It asks the expert to identify the point at which the longitudinal evidence did, or did not, require a different clinical response.
+# \*\*parallel management may have been appropriate; permanent explanatory separation is a different proposition.\*\*
 
-The evidential architecture remains:
+# 
 
-**Clinical record -> Facts -> Tensions -> Propositions -> Expert Questions -> Clinical opinion**
+# \---
+
+# 
+
+# \# 5. The 2017–2018 treatment-state evidence created an early reassessment signal
+
+# 
+
+# The patient experienced marked functional improvement on low-dose neurological treatment.
+
+# 
+
+# When procyclidine was withdrawn, gait and lower-limb symptoms worsened. The later neurological account specifically recorded that the first phenomenon to return rapidly was the outside-left-foot corn phenomenon.
+
+# 
+
+# This does not prove that the corn itself was caused by Parkinsonism.
+
+# 
+
+# It does, however, demonstrate that the foot/lower-limb presentation was capable of changing with neurological treatment state.
+
+# 
+
+# That mattered because the relationship had already been recorded as unresolved.
+
+# 
+
+# The proper expert question is therefore not whether this sequence proved neurological causation. It is whether it supplied enough new information that the earlier partition should have been \*\*actively reconsidered\*\*.
+
+# 
+
+# \---
+
+# 
+
+# \# 6. Dopaminergic restraint was deliberate and clinically reasoned
+
+# 
+
+# The record is clear that levodopa was not accidentally omitted.
+
+# 
+
+# The clinicians consciously tried to defer levodopa and dopamine agonists because of the patient's very young age and concern about dyskinesia, impulse-control disorders, punding and the long-term difficulties of dopaminergic treatment.
+
+# 
+
+# That is an important defence to any simplistic allegation of undertreatment from the outset.
+
+# 
+
+# The record also expressly stated that delaying symptomatic treatment was not expected to worsen the underlying neuropathological progression.
+
+# 
+
+# Accordingly, the case should not be framed as though the clinicians had no therapeutic rationale.
+
+# 
+
+# They did.
+
+# 
+
+# \---
+
+# 
+
+# \# 7. But the same record expressly anticipated substantial benefit
+
+# 
+
+# The restraint strategy contained its own counterweight.
+
+# 
+
+# The clinical record repeatedly contemplated that conventional dopaminergic treatment could produce substantial benefit, would likely eventually be required, and might later give rise to regret that it had not been commenced sooner.
+
+# 
+
+# In 2018 the neurologist went further and recorded that the patient \*\*“could be very much better”\*\* if given levodopa or another dopamine agonist, while stating that the team did not want to do so for quite some time.
+
+# 
+
+# That creates a genuine proportionality question.
+
+# 
+
+# The issue is not whether caution was reasonable in principle.
+
+# 
+
+# It is whether the balance between avoiding future treatment complications and relieving present disability remained reasonable throughout the period of deferral.
+
+# 
+
+# \---
+
+# 
+
+# \# 8. Disease progression and symptomatic burden must not be conflated
+
+# 
+
+# A key distinction runs through the record.
+
+# 
+
+# The early rationale included the proposition that postponing symptomatic treatment would not worsen the underlying disease process.
+
+# 
+
+# Even if clinically correct, that does not answer a different question:
+
+# 
+
+# > \*\*What symptom burden, disability, pain or functional restriction was experienced during the period in which treatment capable of improving those symptoms was being deliberately withheld or restricted?\*\*
+
+# 
+
+# The absence of disease-progression harm does not automatically establish the absence of symptomatic harm.
+
+# 
+
+# This distinction is central to any expert assessment of treatment timing.
+
+# 
+
+# \---
+
+# 
+
+# \# 9. Later dyskinesia strongly supports caution, but does not resolve the timing question
+
+# 
+
+# Later records demonstrate genuine dopaminergic sensitivity.
+
+# 
+
+# Dopamine agonist treatment produced chorea/dyskinesia and behavioural concerns. Levodopa and Stalevo later produced or accentuated dyskinetic phenomena, and treatment repeatedly required balancing mobility against excessive movement.
+
+# 
+
+# This substantially strengthens the clinical rationale for caution.
+
+# 
+
+# However, later records also distinguish between levodopa \*\*fuelling or exposing dyskinesia\*\* and being the underlying cause of the patient's susceptibility.
+
+# 
+
+# Therefore the later adverse effects cannot simply be projected backwards as proof that the duration of every earlier period of restraint was correct.
+
+# 
+
+# They establish a real treatment risk.
+
+# 
+
+# They do not, without expert analysis, determine the correct earlier start date, dose or rate of escalation.
+
+# 
+
+# \---
+
+# 
+
+# \# 10. By 2020 the neurological interpretation of lower-limb phenomena had become more explicit
+
+# 
+
+# In 2020 the neurologist recorded a left lower-limb “throw” resembling foot drop but found normal dorsiflexion, plantarflexion, inversion and eversion power and characterised the phenomenon as Parkinsonian.
+
+# 
+
+# This is important because the original 2017 record had described a footdrop-like dystonic posture while leaving the broader foot/neurology relationship unresolved.
+
+# 
+
+# By 2020, at least one lower-limb phenomenon resembling structural or peripheral dysfunction was being expressly classified as Parkinsonian.
+
+# 
+
+# That creates another potential reassessment point.
+
+# 
+
+# \---
+
+# 
+
+# \# 11. The first levodopa treatment came only after the patient felt undertreated
+
+# 
+
+# Levodopa was first introduced in 2021.
+
+# 
+
+# The record states that the patient felt somewhat undertreated before Sinemet was commenced.
+
+# 
+
+# Thereafter dosing remained cautious because even relatively low dopaminergic exposure could produce excessive movement.
+
+# 
+
+# Again, the record supports both sides of the clinical balance:
+
+# 
+
+# \- increasing evidence of symptomatic need;
+
+# \- genuine treatment sensitivity.
+
+# 
+
+# This makes the case one of \*\*longitudinal proportionality\*\*, not retrospective certainty.
+
+# 
+
+# \---
+
+# 
+
+# \# 12. By 2023 undertreatment became an express treating-service interpretation
+
+# 
+
+# The 2023 evidence materially strengthens the case.
+
+# 
+
+# The consultant recorded a reasonable suspicion that much of the patient's inability to walk reflected lack of levodopa and observed that Stalevo facilitated activity.
+
+# 
+
+# The Parkinson's nurse went further and expressly recorded that the patient \*\*appeared undertreated\*\* and that leg pain and shuffling were \*\*OFF-related\*\*.
+
+# 
+
+# Following discussion with the consultant, Stalevo was introduced.
+
+# 
+
+# This is a critical documentary point because undertreatment is no longer merely a later patient allegation.
+
+# 
+
+# It became an explicit contemporaneous clinical interpretation within the treating service.
+
+# 
+
+# The necessary expert question is how far, if at all, that finding illuminates the preceding years.
+
+# 
+
+# \---
+
+# 
+
+# \# 13. The 2023 “misalignment” demonstrates competing clinical models
+
+# 
+
+# The record also expressly documents a “misalignment.”
+
+# 
+
+# The patient continued to regard much of the foot problem as separate from Parkinsonism and had reasonable concerns about that distinction.
+
+# 
+
+# The neurologist increasingly interpreted aspects of gait, dystonia, OFF symptoms and pain within the Parkinsonian framework.
+
+# 
+
+# This is important because the case is not simply one of a clinician ignoring a neurological explanation.
+
+# 
+
+# At different stages, the clinician and patient were operating with \*\*competing models of the same mixed presentation\*\*.
+
+# 
+
+# The expert's task is to determine whether the evidence available over time should have caused either model to be reformulated.
+
+# 
+
+# \---
+
+# 
+
+# \# 14. Pain remains mechanistically mixed
+
+# 
+
+# The pain evidence should not be overstated.
+
+# 
+
+# The record supports genuine structural pathology, possible neuropathic pain, benefit from pregabalin and benefit from local podiatric treatment.
+
+# 
+
+# At the same time, pain repeatedly varied with Parkinsonian treatment state.
+
+# 
+
+# Neurology accepted that Sinemet helped the patient's pain but expressly explained that levodopa can reduce the experience of pain even when the underlying generator is not Parkinsonian.
+
+# 
+
+# The strongest conclusion is therefore not:
+
+# 
+
+# \*\*“Sinemet helped, therefore the pain was Parkinsonian.”\*\*
+
+# 
+
+# It is:
+
+# 
+
+# \*\*The pain was clinically interacting with dopaminergic state, while its underlying generator remained capable of being structural, neuropathic, dystonic or mixed.\*\*
+
+# 
+
+# \---
+
+# 
+
+# \# 15. The 2025 Sinemet CR outcome materially strengthens the counterfactual question
+
+# 
+
+# The March 2025 clinical record proposed nocturnal controlled-release Sinemet because of severe morning disability and the possibility that the overnight medication gap contributed to the morning state.
+
+# 
+
+# The later treating-neurologist response records that the cautious Sinemet CR escalation provided \*\*“profound relief currently.”\*\*
+
+# 
+
+# The subsequent Quality and Patient Safety letter described Sinemet CR as an \*\*effective analgesic for the foot pain\*\*.
+
+# 
+
+# This is stronger evidence than an earlier prediction of benefit because an actual treatment trial produced a substantial reported outcome.
+
+# 
+
+# It still does not prove that Sinemet CR should have been prescribed years earlier or that it would then have produced the same result.
+
+# 
+
+# But it materially strengthens the expert counterfactual:
+
+# 
+
+# > \*\*At what earlier point, if any, would a reasonable clinician have considered a carefully controlled dopaminergic trial directed at the disabling morning/lower-limb phenotype?\*\*
+
+# 
+
+# \---
+
+# 
+
+# \# 16. The genetic chronology is now highly significant
+
+# 
+
+# PARK2/PRKN was not a late speculative theory.
+
+# 
+
+# It was raised early because of the unusually young onset, phenotype and clinical characteristics. Specialist opinion considered PARK2 probable and recommended testing.
+
+# 
+
+# The treating neurologist later recorded that genetic confirmation might not immediately change management, while also acknowledging reasonable logic in testing.
+
+# 
+
+# In February 2026, specialist genetic testing confirmed two pathogenic Parkin variants and attributed both the patient's Parkinsonism and dystonia to compound heterozygous Parkin mutations.
+
+# 
+
+# That endpoint does not prove that every historical corn, callus or pain episode was caused by Parkin-related dystonia.
+
+# 
+
+# It does, however, confirm that the early PARK2/dystonia branch represented the eventual documented aetiology.
+
+# 
+
+# That makes it legitimate to ask whether earlier clarification would have changed the interpretation of dystonia, treatment sensitivity, counselling or the threshold for movement-disorders reassessment.
+
+# 
+
+# \---
+
+# 
+
+# \# 17. The case turns on decision points, not one global accusation
+
+# 
+
+# The chronology should therefore be assessed as a series of potential reassessment points rather than as a single allegation stretching from 2017 to 2026.
+
+# 
+
+# The principal candidate points are:
+
+# 
+
+# 1\. the 2017 express “Not clear” formulation;
+
+# 2\. the 2017–2018 procyclidine response and withdrawal sequence;
+
+# 3\. the 2018 statement that dopaminergic treatment could make the patient “very much better”;
+
+# 4\. the 2020 explicit classification of the foot throw as Parkinsonian;
+
+# 5\. the 2021 first introduction of levodopa after the patient felt undertreated;
+
+# 6\. the 2022 clarification concerning dyskinesia susceptibility;
+
+# 7\. the 2023 consultant and nurse OFF/undertreatment assessments;
+
+# 8\. the 2025 severe morning foot disability and subsequent Sinemet CR response;
+
+# 9\. the 2026 confirmation of Parkin-associated Parkinsonism and dystonia.
+
+# 
+
+# The expert should determine which of these, individually or cumulatively, materially changed what a reasonable clinician should have understood or done.
+
+# 
+
+# \---
+
+# 
+
+# \# 18. Strongest alternative clinical explanation
+
+# 
+
+# The principal alternative explanation is substantial and must remain part of the case.
+
+# 
+
+# The patient had genuine recurrent structural foot pathology.
+
+# 
+
+# The same left fifth-MTPJ site repeatedly required podiatric treatment. Toe deformity and callus formation were objectively present. Local interventions could help. Pregabalin also improved pain. Later Sinemet benefit could reflect central modulation of pain arising from another generator rather than treatment of the generator itself.
+
+# 
+
+# A reasonable clinician could therefore maintain that:
+
+# 
+
+# \- the patient had Parkinsonism and dystonia;
+
+# \- he also had independent structural and possibly neuropathic foot pathology;
+
+# \- dopaminergic treatment altered pain perception and motor function without proving that the foot pathology itself was neurological;
+
+# \- cautious levodopa management was justified by demonstrated dyskinesia sensitivity.
+
+# 
+
+# That alternative is not fatal to the case.
+
+# 
+
+# It defines the question the expert must answer:
+
+# 
+
+# \*\*whether that mixed explanation remained sufficient without more explicit integration and reassessment as the longitudinal evidence accumulated.\*\*
+
+# 
+
+# \---
+
+# 
+
+# \# 19. Overall documentary position
+
+# 
+
+# The documentary record supports the following restrained conclusion.
+
+# 
+
+# The initial 2017 approach may have been clinically defensible. There was severe Parkinsonism, real structural foot pathology, uncertain interaction between them and legitimate concern about exposing a very young patient to dopaminergic complications.
+
+# 
+
+# What becomes progressively harder to resolve from the documents alone is whether that original framework remained adequate as later evidence accumulated.
+
+# 
+
+# The record subsequently contained:
+
+# 
+
+# \- neurological treatment-state changes involving the feet and gait;
+
+# \- acknowledgment of potentially substantial dopaminergic benefit;
+
+# \- explicitly Parkinsonian lower-limb signs;
+
+# \- first levodopa only after reported undertreatment;
+
+# \- later express OFF-related pain and gait assessments;
+
+# \- a treating-service finding of undertreatment;
+
+# \- major Sinemet CR benefit;
+
+# \- and eventual genetic confirmation that the Parkinsonism and dystonia were caused by compound heterozygous Parkin mutations.
+
+# 
+
+# The clinical case therefore does not depend on proving that the clinicians were wrong in 2017.
+
+# 
+
+# It depends on determining whether they \*\*reassessed the case adequately as the evidential position changed\*\*.
+
+# 
+
+# \---
+
+# 
+
+# \# 20. Governing expert question
+
+# 
+
+# > \*\*Was the initial 2017 uncertainty and parallel-management strategy reasonably maintained throughout the subsequent chronology, or did the accumulating evidence create one or more identifiable dates at which a reasonable movement-disorders clinician should have reformulated the relationship between the neurological and foot/lower-limb presentation, altered the dopaminergic treatment strategy, obtained further specialist/genetic clarification, or some combination of those steps?\*\*
+
+# 
+
+# Until that question is independently answered, the documentary record supports a strong case for expert investigation rather than a predetermined finding of clinical fault.
+
