@@ -3950,3 +3950,20 @@ CLIN-003217  ## Notes on confidence
 CLIN-003218  The clean typed treatment notes and appointment letters are highly legible. The largest uncertainty remains in handwritten sections of the older referral and insole prescription forms, particularly page 12 and some marked prescription fields on pages 13 and 16.
 
 CLIN-003219  **Revision history:** The file has been revised against clearer native images supplied after the first transcription. Those images resolved the page-1 referral/registration chronology and corrected the page-12 Merlin Park date stamp from an earlier erroneous reading of **12 Apr 2017** to **10 Apr 2017**. They also showed that page 12 should be treated as a layered document, so uncertain handwriting has been retranscribed more conservatively and the visible risk-status tick has been recorded specifically as **Medium Risk - Foot deformities**.
+
+CLIN-003220  # DOCUMENT 20 — St Vincent's Genetic Confirmation — 2026-02-04
+
+CLIN-003221  # St Vincent's University Hospital — Department of Neurology
+
+CLIN-003222  **Source:** Photograph of original clinical letter supplied directly by the patient.
+CLIN-003223  **Document type:** Consultant neurology genetic-results letter.
+CLIN-003224  **Date dictated:** 03/02/2026
+CLIN-003225  **E-signed & approved:** 04/02/2026
+
+CLIN-003226  ## Clinical conclusion
+
+CLIN-003227  > I received the results of [Patient]'s genetic tests. They confirm that he has two pathogenic variants in the Parkin gene as predicted. His Parkinsonism and dystonia are due to compound heterozygous mutations in the Parkin gene. I plan to see him again in clinic.
+
+CLIN-003228  **Signed:** [Consultant Neurologist], St Vincent's University Hospital
+
+CLIN-003229  **Transcription note:** Identifiers and non-essential private details have been redacted; the clinical conclusion is transcribed from the supplied original letter.
