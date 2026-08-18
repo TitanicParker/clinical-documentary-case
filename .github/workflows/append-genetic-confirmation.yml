@@ -76,3 +76,5 @@ EOF
           git add complete-record.md
           git commit -m "Append 2026 Parkin genetic confirmation to complete record"
           git push origin HEAD:main
+
+# PR trigger marker 2.
