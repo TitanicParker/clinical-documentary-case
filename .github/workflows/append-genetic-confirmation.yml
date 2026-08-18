@@ -1,8 +1,8 @@
 name: Append 2026 genetic confirmation
 
 on:
-  push:
-    branches: [main]
+  pull_request:
+    types: [opened]
 
 permissions:
   contents: write
@@ -11,8 +11,10 @@ jobs:
   append-record:
     runs-on: ubuntu-latest
     steps:
-      - name: Check out repository
+      - name: Check out main
         uses: actions/checkout@v4
+        with:
+          ref: main
 
       - name: Append genetic confirmation to complete record
         shell: bash
@@ -62,7 +64,7 @@ CLIN-003247  **E-signed & Approved:** 04/02/2026
 CLIN-003248  **Cc:** Mr. Liam Moloney, 39 Dun Na Mara, Renmore, Galway City, County Galway
 EOF
 
-      - name: Commit appended record
+      - name: Commit appended record to main
         shell: bash
         run: |
           if git diff --quiet -- complete-record.md; then
@@ -73,6 +75,4 @@ EOF
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
           git add complete-record.md
           git commit -m "Append 2026 Parkin genetic confirmation to complete record"
-          git push
-
-# Merge trigger marker.
+          git push origin HEAD:main
