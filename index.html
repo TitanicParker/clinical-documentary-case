@@ -1,0 +1,1025 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <meta
+    name="description"
+    content="Clinical Documentary Case — controlled documentary analysis of a longitudinal neurological and foot/lower-limb presentation."
+  >
+
+  <title>Clinical Documentary Case</title>
+
+  <style>
+    :root {
+      --bg: #f5f3ee;
+      --surface: #ffffff;
+      --surface-soft: #faf9f6;
+      --text: #1d252b;
+      --muted: #667078;
+      --line: #d8d7d2;
+      --line-dark: #b9b8b3;
+      --accent: #284d5b;
+      --accent-soft: #e8eff1;
+      --warning: #725a2e;
+      --warning-soft: #f5efe2;
+      --max: 1180px;
+      --reading: 820px;
+      --radius: 10px;
+      --shadow: 0 8px 30px rgba(20, 30, 35, 0.055);
+    }
+
+    * {
+      box-sizing: border-box;
+    }
+
+    html {
+      scroll-behavior: smooth;
+    }
+
+    body {
+      margin: 0;
+      background: var(--bg);
+      color: var(--text);
+      font-family:
+        Inter,
+        ui-sans-serif,
+        system-ui,
+        -apple-system,
+        BlinkMacSystemFont,
+        "Segoe UI",
+        sans-serif;
+      line-height: 1.65;
+    }
+
+    a {
+      color: var(--accent);
+    }
+
+    a:hover {
+      text-decoration-thickness: 2px;
+    }
+
+    .shell {
+      width: min(calc(100% - 32px), var(--max));
+      margin: 0 auto;
+    }
+
+    header {
+      background: #17252c;
+      color: white;
+      border-bottom: 1px solid #324149;
+    }
+
+    .header-inner {
+      min-height: 68px;
+      display: flex;
+      align-items: center;
+      justify-content: space-between;
+      gap: 24px;
+    }
+
+    .brand {
+      font-weight: 700;
+      letter-spacing: 0.01em;
+    }
+
+    .header-tag {
+      color: #bdc8cd;
+      font-size: 0.86rem;
+    }
+
+    nav {
+      position: sticky;
+      top: 0;
+      z-index: 50;
+      background: rgba(245, 243, 238, 0.96);
+      backdrop-filter: blur(12px);
+      border-bottom: 1px solid var(--line);
+    }
+
+    .nav-inner {
+      display: flex;
+      gap: 8px;
+      overflow-x: auto;
+      padding: 10px 0;
+      scrollbar-width: none;
+    }
+
+    .nav-inner::-webkit-scrollbar {
+      display: none;
+    }
+
+    nav a {
+      flex: 0 0 auto;
+      color: var(--text);
+      text-decoration: none;
+      font-size: 0.88rem;
+      padding: 7px 10px;
+      border-radius: 6px;
+    }
+
+    nav a:hover {
+      background: var(--surface);
+    }
+
+    main {
+      padding-bottom: 80px;
+    }
+
+    .hero {
+      padding: 76px 0 54px;
+      border-bottom: 1px solid var(--line);
+    }
+
+    .eyebrow {
+      margin-bottom: 16px;
+      color: var(--accent);
+      text-transform: uppercase;
+      letter-spacing: 0.12em;
+      font-size: 0.74rem;
+      font-weight: 750;
+    }
+
+    h1 {
+      max-width: 900px;
+      margin: 0;
+      font-family: Georgia, "Times New Roman", serif;
+      font-size: clamp(2.6rem, 6vw, 5.3rem);
+      line-height: 0.98;
+      letter-spacing: -0.045em;
+      font-weight: 500;
+    }
+
+    .hero-lead {
+      max-width: 830px;
+      margin: 30px 0 0;
+      font-size: clamp(1.1rem, 2vw, 1.35rem);
+      color: #465158;
+    }
+
+    .hero-note {
+      max-width: 830px;
+      margin-top: 28px;
+      padding: 18px 20px;
+      border-left: 4px solid var(--accent);
+      background: var(--surface);
+      box-shadow: var(--shadow);
+    }
+
+    .stats {
+      display: grid;
+      grid-template-columns: repeat(4, 1fr);
+      gap: 1px;
+      margin-top: 42px;
+      background: var(--line);
+      border: 1px solid var(--line);
+    }
+
+    .stat {
+      background: var(--surface);
+      padding: 22px;
+    }
+
+    .stat strong {
+      display: block;
+      font-family: Georgia, "Times New Roman", serif;
+      font-size: 2rem;
+      font-weight: 500;
+      line-height: 1;
+    }
+
+    .stat span {
+      display: block;
+      margin-top: 8px;
+      color: var(--muted);
+      font-size: 0.85rem;
+    }
+
+    section {
+      padding: 68px 0;
+      border-bottom: 1px solid var(--line);
+    }
+
+    .section-grid {
+      display: grid;
+      grid-template-columns: 250px minmax(0, 1fr);
+      gap: 54px;
+    }
+
+    .section-label {
+      position: sticky;
+      top: 72px;
+      align-self: start;
+    }
+
+    .section-number {
+      color: var(--accent);
+      font-size: 0.75rem;
+      font-weight: 700;
+      letter-spacing: 0.12em;
+      text-transform: uppercase;
+    }
+
+    .section-label h2 {
+      margin: 8px 0 0;
+      font-family: Georgia, "Times New Roman", serif;
+      font-size: 1.75rem;
+      line-height: 1.12;
+      font-weight: 500;
+    }
+
+    .content {
+      max-width: var(--reading);
+    }
+
+    .content > :first-child {
+      margin-top: 0;
+    }
+
+    h3 {
+      margin-top: 34px;
+      margin-bottom: 10px;
+      font-family: Georgia, "Times New Roman", serif;
+      font-size: 1.35rem;
+      font-weight: 500;
+    }
+
+    p {
+      margin: 0 0 18px;
+    }
+
+    .governing-question {
+      margin: 28px 0;
+      padding: 26px 28px;
+      background: #17252c;
+      color: white;
+      border-radius: var(--radius);
+      font-family: Georgia, "Times New Roman", serif;
+      font-size: clamp(1.25rem, 2.5vw, 1.65rem);
+      line-height: 1.4;
+    }
+
+    .chain {
+      display: grid;
+      gap: 10px;
+      margin: 28px 0;
+    }
+
+    .chain-step {
+      display: grid;
+      grid-template-columns: 48px 1fr;
+      gap: 16px;
+      align-items: center;
+      padding: 14px 16px;
+      background: var(--surface);
+      border: 1px solid var(--line);
+      border-radius: 8px;
+    }
+
+    .chain-step .n {
+      display: grid;
+      place-items: center;
+      width: 34px;
+      height: 34px;
+      border-radius: 50%;
+      background: var(--accent-soft);
+      color: var(--accent);
+      font-weight: 800;
+      font-size: 0.82rem;
+    }
+
+    .chain-step strong {
+      display: block;
+    }
+
+    .chain-step small {
+      color: var(--muted);
+    }
+
+    .principle {
+      margin: 28px 0;
+      padding: 21px 24px;
+      background: var(--accent-soft);
+      border-radius: var(--radius);
+    }
+
+    .principle strong {
+      display: block;
+      margin-bottom: 5px;
+    }
+
+    .counterweight {
+      margin: 30px 0;
+      padding: 22px 24px;
+      border: 1px solid #d8cbaa;
+      background: var(--warning-soft);
+      border-radius: var(--radius);
+    }
+
+    .counterweight strong {
+      color: var(--warning);
+    }
+
+    .timeline {
+      margin-top: 30px;
+      border-left: 2px solid var(--line-dark);
+      padding-left: 28px;
+    }
+
+    .event {
+      position: relative;
+      padding: 0 0 30px;
+    }
+
+    .event:last-child {
+      padding-bottom: 0;
+    }
+
+    .event::before {
+      content: "";
+      position: absolute;
+      width: 11px;
+      height: 11px;
+      left: -34.5px;
+      top: 7px;
+      background: var(--surface);
+      border: 3px solid var(--accent);
+      border-radius: 50%;
+    }
+
+    .event .date {
+      color: var(--accent);
+      font-size: 0.78rem;
+      font-weight: 750;
+      letter-spacing: 0.08em;
+      text-transform: uppercase;
+    }
+
+    .event h3 {
+      margin: 4px 0 8px;
+    }
+
+    .event p {
+      color: #4c575e;
+    }
+
+    .documents {
+      display: grid;
+      grid-template-columns: repeat(2, 1fr);
+      gap: 14px;
+      margin-top: 28px;
+    }
+
+    .document {
+      display: block;
+      min-height: 150px;
+      padding: 22px;
+      background: var(--surface);
+      border: 1px solid var(--line);
+      border-radius: var(--radius);
+      color: var(--text);
+      text-decoration: none;
+      transition:
+        transform 120ms ease,
+        box-shadow 120ms ease,
+        border-color 120ms ease;
+    }
+
+    .document:hover {
+      transform: translateY(-2px);
+      border-color: var(--line-dark);
+      box-shadow: var(--shadow);
+    }
+
+    .document .doc-type {
+      color: var(--accent);
+      text-transform: uppercase;
+      font-size: 0.7rem;
+      font-weight: 750;
+      letter-spacing: 0.1em;
+    }
+
+    .document h3 {
+      margin: 8px 0 8px;
+    }
+
+    .document p {
+      margin: 0;
+      color: var(--muted);
+      font-size: 0.9rem;
+    }
+
+    .warning-box {
+      padding: 22px;
+      border: 1px solid var(--line);
+      border-radius: var(--radius);
+      background: var(--surface-soft);
+    }
+
+    footer {
+      padding: 38px 0 54px;
+      color: var(--muted);
+      font-size: 0.86rem;
+    }
+
+    footer strong {
+      color: var(--text);
+    }
+
+    @media (max-width: 860px) {
+      .header-tag {
+        display: none;
+      }
+
+      .stats {
+        grid-template-columns: repeat(2, 1fr);
+      }
+
+      .section-grid {
+        grid-template-columns: 1fr;
+        gap: 26px;
+      }
+
+      .section-label {
+        position: static;
+      }
+
+      .documents {
+        grid-template-columns: 1fr;
+      }
+    }
+
+    @media (max-width: 520px) {
+      .shell {
+        width: min(calc(100% - 22px), var(--max));
+      }
+
+      .hero {
+        padding-top: 52px;
+      }
+
+      .stats {
+        grid-template-columns: 1fr 1fr;
+      }
+
+      .stat {
+        padding: 17px;
+      }
+    }
+
+    @media print {
+      nav {
+        display: none;
+      }
+
+      body {
+        background: white;
+      }
+
+      .shell {
+        width: 100%;
+      }
+
+      section {
+        break-inside: avoid;
+      }
+
+      .document {
+        break-inside: avoid;
+      }
+    }
+  </style>
+</head>
+
+<body>
+
+<header>
+  <div class="shell header-inner">
+    <div class="brand">Clinical Documentary Case</div>
+    <div class="header-tag">Controlled evidence architecture · 2017–2026</div>
+  </div>
+</header>
+
+<nav>
+  <div class="shell nav-inner">
+    <a href="#issue">Governing issue</a>
+    <a href="#architecture">Evidence architecture</a>
+    <a href="#case">Clinical case</a>
+    <a href="#decision-points">Decision points</a>
+    <a href="#counterweight">Counterweight</a>
+    <a href="#genetics">Genetic endpoint</a>
+    <a href="#documents">Controlled documents</a>
+  </div>
+</nav>
+
+<main>
+
+  <div class="hero">
+    <div class="shell">
+      <div class="eyebrow">Longitudinal clinical documentary analysis</div>
+
+      <h1>
+        An unresolved presentation,
+        tested by what happened next.
+      </h1>
+
+      <p class="hero-lead">
+        This case examines the longitudinal relationship between structural foot
+        pathology, dystonic and Parkinsonian lower-limb phenomena, dopaminergic
+        treatment strategy, pain, treatment response and the eventual confirmation
+        of Parkin-associated Parkinsonism and dystonia.
+      </p>
+
+      <div class="hero-note">
+        The case does <strong>not</strong> depend on proving that every foot symptom
+        was neurological, that Podiatry treatment was inappropriate, or that
+        levodopa necessarily should have been commenced in July 2017. Its central
+        question is whether an initially unresolved clinical model remained
+        adequate as the evidential position changed.
+      </div>
+
+      <div class="stats" aria-label="Controlled evidence counts">
+        <div class="stat">
+          <strong>105</strong>
+          <span>controlled clinical facts</span>
+        </div>
+        <div class="stat">
+          <strong>17</strong>
+          <span>documentary tensions</span>
+        </div>
+        <div class="stat">
+          <strong>20</strong>
+          <span>controlled propositions</span>
+        </div>
+        <div class="stat">
+          <strong>16</strong>
+          <span>expert questions</span>
+        </div>
+      </div>
+    </div>
+  </div>
+
+  <section id="issue">
+    <div class="shell section-grid">
+      <div class="section-label">
+        <div class="section-number">01</div>
+        <h2>Governing issue</h2>
+      </div>
+
+      <div class="content">
+        <p>
+          In 2017, severe young-onset Parkinsonism and genuine structural foot
+          pathology were documented together. The neurological record did not
+          establish a clean causal separation between the two. Instead, the
+          relationship was expressly recorded as <strong>“Not clear.”</strong>
+        </p>
+
+        <p>
+          Parallel Neurology and Podiatry management may initially have been
+          entirely reasonable. The question is what clinical significance should
+          be attached to the evidence that accumulated afterwards.
+        </p>
+
+        <div class="governing-question">
+          At what point, if any, did accumulating neurological, pharmacological,
+          treatment-state and genetic evidence require explicit reassessment of
+          the original mixed foot/neurological presentation and/or the associated
+          dopaminergic treatment strategy?
+        </div>
+      </div>
+    </div>
+  </section>
+
+  <section id="architecture">
+    <div class="shell section-grid">
+      <div class="section-label">
+        <div class="section-number">02</div>
+        <h2>Evidence architecture</h2>
+      </div>
+
+      <div class="content">
+        <p>
+          The presentation is deliberately layered. Conclusions are not allowed
+          to float free of their documentary basis.
+        </p>
+
+        <div class="chain">
+          <div class="chain-step">
+            <div class="n">1</div>
+            <div>
+              <strong>Clinical source record</strong>
+              <small>Chronological documentary material indexed by CLIN line.</small>
+            </div>
+          </div>
+
+          <div class="chain-step">
+            <div class="n">2</div>
+            <div>
+              <strong>Facts</strong>
+              <small>Controlled factual statements tied directly to source lines.</small>
+            </div>
+          </div>
+
+          <div class="chain-step">
+            <div class="n">3</div>
+            <div>
+              <strong>Tensions</strong>
+              <small>Documentary relationships requiring explanation or adjudication.</small>
+            </div>
+          </div>
+
+          <div class="chain-step">
+            <div class="n">4</div>
+            <div>
+              <strong>Propositions</strong>
+              <small>Bounded analytical propositions derived from facts and tensions.</small>
+            </div>
+          </div>
+
+          <div class="chain-step">
+            <div class="n">5</div>
+            <div>
+              <strong>Expert questions</strong>
+              <small>Points at which documentary analysis gives way to clinical judgment.</small>
+            </div>
+          </div>
+
+          <div class="chain-step">
+            <div class="n">6</div>
+            <div>
+              <strong>Clinical argument</strong>
+              <small>The strongest restrained case supported by the controlled record.</small>
+            </div>
+          </div>
+        </div>
+
+        <div class="principle">
+          <strong>Methodological rule</strong>
+          The architecture separates documentary fact from clinical inference.
+          Questions of standard of care, treatment proportionality, clinical
+          causation and counterfactual outcome are reserved for independent expert
+          judgment.
+        </div>
+      </div>
+    </div>
+  </section>
+
+  <section id="case">
+    <div class="shell section-grid">
+      <div class="section-label">
+        <div class="section-number">03</div>
+        <h2>The clinical case</h2>
+      </div>
+
+      <div class="content">
+        <h3>One evolving presentation</h3>
+        <p>
+          The pre-admission record progressively brought feet, gait, impaired
+          movement initiation, increased tone, toe clawing, dexterity and
+          functional impairment into one neurological referral pathway.
+        </p>
+
+        <h3>Two genuine documentary strands</h3>
+        <p>
+          Neurology documented severe Parkinsonism, dystonic-looking posture and
+          a footdrop-like gait expressly described as <strong>“NOT FOOT DROP.”</strong>
+          Podiatry separately documented genuine recurrent structural pathology,
+          particularly at the left fifth metatarsophalangeal joint.
+        </p>
+
+        <h3>The relationship remained unresolved</h3>
+        <p>
+          The important documentary proposition is therefore not that one strand
+          displaced the other. Both were real. What remained unresolved was how
+          they interacted.
+        </p>
+
+        <div class="principle">
+          <strong>Core proposition</strong>
+          Operational separation between Neurology and Podiatry did not, by
+          itself, convert an expressly unresolved clinical relationship into a
+          settled etiological separation.
+        </div>
+
+        <h3>Treatment-state evidence accumulated</h3>
+        <p>
+          Improvement on neurological treatment, deterioration during
+          procyclidine withdrawal, later Parkinsonian interpretation of a
+          foot-throw phenomenon, OFF-related findings, explicit undertreatment,
+          and repeated pain improvement with dopaminergic medication progressively
+          supplied evidence capable of bearing on the original partition.
+        </p>
+
+        <h3>At the same time, treatment restraint had a genuine rationale</h3>
+        <p>
+          Levodopa and dopamine-agonist treatment were deliberately restricted in
+          a very young patient because of concern about dyskinesia, behavioural
+          complications and long-term treatment burden. Later dyskinesia provides
+          real support for the legitimacy of that caution.
+        </p>
+
+        <p>
+          The unresolved question is not whether caution was defensible in
+          principle, but whether the balance between treatment risk and present
+          symptom burden remained proportionate throughout the chronology.
+        </p>
+      </div>
+    </div>
+  </section>
+
+  <section id="decision-points">
+    <div class="shell section-grid">
+      <div class="section-label">
+        <div class="section-number">04</div>
+        <h2>Potential reassessment points</h2>
+      </div>
+
+      <div class="content">
+        <p>
+          The case is best tested at identifiable decision points rather than by
+          one retrospective allegation spanning the entire period.
+        </p>
+
+        <div class="timeline">
+
+          <div class="event">
+            <div class="date">2017</div>
+            <h3>Express uncertainty</h3>
+            <p>
+              Parkinsonism, dystonic-looking gait and genuine structural foot
+              disease coexist. Their relationship is recorded as “Not clear.”
+            </p>
+          </div>
+
+          <div class="event">
+            <div class="date">2017–2018</div>
+            <h3>Neurological treatment-state signal</h3>
+            <p>
+              Marked treatment response and withdrawal deterioration include
+              lower-limb and outside-left-foot phenomena.
+            </p>
+          </div>
+
+          <div class="event">
+            <div class="date">2018</div>
+            <h3>Potential benefit acknowledged</h3>
+            <p>
+              The treating record states that the patient could be “very much
+              better” on levodopa or a dopamine agonist while treatment remains
+              deliberately deferred.
+            </p>
+          </div>
+
+          <div class="event">
+            <div class="date">2020</div>
+            <h3>Foot phenomenon classified as Parkinsonian</h3>
+            <p>
+              A foot-drop-like “throw” is interpreted as Parkinsonian in the
+              presence of normal power.
+            </p>
+          </div>
+
+          <div class="event">
+            <div class="date">2021</div>
+            <h3>Levodopa introduced</h3>
+            <p>
+              Sinemet is commenced after the patient is recorded as feeling
+              somewhat undertreated.
+            </p>
+          </div>
+
+          <div class="event">
+            <div class="date">2023</div>
+            <h3>Undertreatment becomes explicit</h3>
+            <p>
+              Consultant and Parkinson's nurse records contain direct
+              OFF-related and undertreatment interpretations of gait, mobility
+              and lower-limb symptoms.
+            </p>
+          </div>
+
+          <div class="event">
+            <div class="date">2025</div>
+            <h3>Sinemet CR produces major reported benefit</h3>
+            <p>
+              Severe morning foot disability leads to a cautious controlled-release
+              levodopa trial. The subsequent record describes profound relief and
+              effective analgesic benefit.
+            </p>
+          </div>
+
+          <div class="event">
+            <div class="date">2026</div>
+            <h3>Parkin aetiology confirmed</h3>
+            <p>
+              Genetic testing confirms two pathogenic Parkin variants and
+              attributes both Parkinsonism and dystonia to compound heterozygous
+              Parkin mutations.
+            </p>
+          </div>
+
+        </div>
+      </div>
+    </div>
+  </section>
+
+  <section id="counterweight">
+    <div class="shell section-grid">
+      <div class="section-label">
+        <div class="section-number">05</div>
+        <h2>Structural counterweight</h2>
+      </div>
+
+      <div class="content">
+        <div class="counterweight">
+          <strong>The competing evidence is substantial.</strong>
+          <p style="margin-top:10px;">
+            Across the eight represented Podiatry treatment encounters between
+            September 2017 and March 2019, pathology at or centred on the left
+            fifth MTPJ was documented at every encounter. Toe deformity, callus
+            formation and local mechanical treatment were genuine and recurrent.
+          </p>
+        </div>
+
+        <p>
+          Local treatment could help. Toe props were reported as very effective.
+          Pregabalin later improved pain. Dopaminergic pain relief can also reflect
+          modulation of the experience of pain rather than proof of its primary
+          generator.
+        </p>
+
+        <p>
+          The evidence therefore does not support an absolute proposition that
+          the feet were “neurological all along.”
+        </p>
+
+        <div class="principle">
+          <strong>Stronger formulation</strong>
+          The clinically important issue is whether a clean structural-versus-
+          neurological partition remained adequate once the longitudinal record
+          increasingly supported interaction between structural pathology,
+          dystonia, motor state, OFF periods and dopaminergic treatment.
+        </div>
+      </div>
+    </div>
+  </section>
+
+  <section id="genetics">
+    <div class="shell section-grid">
+      <div class="section-label">
+        <div class="section-number">06</div>
+        <h2>Diagnostic trajectory</h2>
+      </div>
+
+      <div class="content">
+        <p>
+          PRKN/PARK2 was identified as a serious etiological possibility in 2017
+          because of the unusually young onset and phenotype.
+        </p>
+
+        <p>
+          In March 2025, before genetic confirmation, the treating neurologist
+          described the current belief and understanding as
+          <strong>idiopathic Parkinson's disease</strong>.
+        </p>
+
+        <p>
+          In February 2026, specialist genetic testing confirmed two pathogenic
+          Parkin variants and concluded that the patient's
+          <strong>Parkinsonism and dystonia</strong> were due to compound
+          heterozygous Parkin mutations.
+        </p>
+
+        <div class="principle">
+          <strong>What the genetic result does establish</strong>
+          The etiological branch identified near the beginning of the case was
+          ultimately confirmed, and dystonia was expressly included in the
+          genetically defined disorder.
+        </div>
+
+        <div class="warning-box">
+          <strong>What it does not establish</strong>
+          <p style="margin:8px 0 0;">
+            It does not retrospectively prove the mechanism of every corn,
+            callus, structural lesion or historical pain episode, and it does not
+            by itself establish that the pre-confirmation idiopathic description
+            was clinically unreasonable.
+          </p>
+        </div>
+      </div>
+    </div>
+  </section>
+
+  <section id="documents">
+    <div class="shell section-grid">
+      <div class="section-label">
+        <div class="section-number">07</div>
+        <h2>Controlled documents</h2>
+      </div>
+
+      <div class="content">
+        <p>
+          The analytical layers remain separately accessible so that any
+          proposition can be traced backwards toward its documentary basis.
+        </p>
+
+        <div class="documents">
+
+          <a class="document" href="complete-record.md">
+            <div class="doc-type">Source layer</div>
+            <h3>Complete Record</h3>
+            <p>
+              Chronological clinical source material with controlled CLIN line
+              references.
+            </p>
+          </a>
+
+          <a class="document" href="FACTS.md">
+            <div class="doc-type">Fact layer</div>
+            <h3>105 Facts</h3>
+            <p>
+              Controlled factual statements anchored directly to the clinical
+              record.
+            </p>
+          </a>
+
+          <a class="document" href="TENSIONS.md">
+            <div class="doc-type">Analytical layer</div>
+            <h3>17 Tensions</h3>
+            <p>
+              Documentary relationships requiring explanation or expert
+              adjudication.
+            </p>
+          </a>
+
+          <a class="document" href="PROPOSITIONS.md">
+            <div class="doc-type">Proposition layer</div>
+            <h3>20 Propositions</h3>
+            <p>
+              Bounded propositions derived from facts and tensions.
+            </p>
+          </a>
+
+          <a class="document" href="EXPERT-QUESTIONS.md">
+            <div class="doc-type">Expert layer</div>
+            <h3>16 Expert Questions</h3>
+            <p>
+              The clinical issues requiring independent specialist judgment.
+            </p>
+          </a>
+
+          <a class="document" href="CLINICAL-ARGUMENT.md">
+            <div class="doc-type">Argument layer</div>
+            <h3>Clinical Argument</h3>
+            <p>
+              The strongest restrained longitudinal argument supported by the
+              controlled documentary record.
+            </p>
+          </a>
+
+        </div>
+      </div>
+    </div>
+  </section>
+
+  <section>
+    <div class="shell section-grid">
+      <div class="section-label">
+        <div class="section-number">08</div>
+        <h2>Expert hinge</h2>
+      </div>
+
+      <div class="content">
+        <div class="governing-question">
+          Was the initial 2017 uncertainty and parallel-management strategy
+          reasonably maintained throughout the subsequent chronology, or did the
+          accumulating evidence create one or more identifiable dates at which a
+          reasonable movement-disorders clinician should have reformulated the
+          relationship between the neurological and foot/lower-limb presentation,
+          altered the dopaminergic treatment strategy, obtained further
+          specialist/genetic clarification, or some combination of those steps?
+        </div>
+
+        <p>
+          Until that question is independently answered, the documentary record
+          supports expert investigation rather than a predetermined conclusion of
+          clinical fault.
+        </p>
+      </div>
+    </div>
+  </section>
+
+</main>
+
+<footer>
+  <div class="shell">
+    <strong>Clinical Documentary Case</strong><br>
+    Controlled documentary presentation. Clinical source material, facts,
+    analytical tensions, propositions and expert questions remain separately
+    identifiable.
+  </div>
+</footer>
+
+</body>
+</html>
