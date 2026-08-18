@@ -1,131 +1,898 @@
-# Expert Question Register
+# \# Clinical Documentary Case — Expert Question Register
 
-## EQ-0001 — Integration of structural and neurological foot findings
+# 
 
-**Question:** On the documentary record, is it clinically reasonable to regard the recurrent corns, callus, clawing, focal fifth-metatarsophalangeal pathology and foot pain as wholly independent structural disease, or could Parkinsonian rigidity, dystonia, abnormal gait or altered loading have materially caused, aggravated or perpetuated those lesions and symptoms?
+# \*\*Status:\*\* Questions for independent movement-disorders / Parkinsonism expert opinion.
 
-**If wholly independent:** The podiatric pathology remains a separate explanatory stream and neurological treatment would not be expected to alter its underlying cause.
+# 
 
-**If neurologically caused/aggravated:** The foot pathology is at least partly downstream from the movement disorder and should have been integrated into neurological assessment and management.
+# \*\*Source chain:\*\* `complete-record.md` → `FACTS.md` → `TENSIONS.md` → `PROPOSITIONS.md`
 
-**Engages:** PROP-0001, PROP-0002, PROP-0013
+# 
 
-## EQ-0002 — Significance of the 2017–2018 procyclidine withdrawal sequence
+# > \*\*Control rule:\*\* These questions identify where documentary analysis ends and independent clinical judgment begins. The expert should not be asked to accept the propositions as conclusions. The expert should identify the clinically reasonable interpretation, any material alternative interpretation, the relevant decision point(s), and the degree of confidence that can properly be expressed.
 
-**Question:** What clinical significance should reasonably have been attached to the documented improvement on procyclidine, the deterioration in tension, feet and gait during withdrawal, and the 2018 neurology entry that the first rapidly changing feature during withdrawal was the return of the outside-left-foot phenomenon?
+# 
 
-**If diagnostically significant:** The sequence supplied contemporaneous evidence that at least part of the disputed foot/gait presentation was neurologically modifiable and warranted reassessment of symptom attribution.
+# \## Governing issue
 
-**If non-specific:** The sequence may reflect effects on tone, loading, pain experience or movement without identifying the primary generator.
+# 
 
-**Engages:** PROP-0003, PROP-0004
+# The central question is not whether every historical foot symptom was neurological, whether Podiatry was inappropriate, or whether levodopa necessarily had to be commenced in July 2017.
 
-## EQ-0003 — Threshold for reassessing the original symptom partition
+# 
 
-**Question:** At what point, if any, did the accumulated evidence — including the 2018 withdrawal history, the 2020 parkinsonian foot throw with normal power, the 2023 OFF-related leg pain/shuffling assessment, and the later documented "misalignment" — make explicit reassessment of the earlier structural/neurological partition clinically necessary?
+# The central issue is:
 
-**If no reassessment was required:** The sequence remains compatible with reasonable parallel management of co-existing structural and neurological problems.
+# 
 
-**If reassessment was required:** The expert should identify the earliest point at which the clinical model should reasonably have changed and what investigation or management should have followed.
+# > \*\*At what point, if any, did accumulating neurological, pharmacological, treatment-state and genetic evidence require explicit reassessment of the original mixed foot/neurological presentation and/or the associated dopaminergic treatment strategy?\*\*
 
-**Engages:** PROP-0004, PROP-0014
+# 
 
-## EQ-0004 — Proportionality of levodopa deferral over time
+# \---
 
-**Question:** Given the patient's very young onset, the recognised risk of dyskinesia and behavioural complications, the documented functional impairment, and the treating neurologist's acknowledgement that the patient might do very well or be "very much better" with stronger dopaminergic treatment, was deferring levodopa from 2017 until 2021 clinically proportionate throughout that period?
+# 
 
-**If proportionate throughout:** The delay represented a defensible longitudinal risk-minimisation strategy.
+# \# EQ-0001 — How should the July 2017 phenotype be characterised?
 
-**If proportionate initially but not later:** The expert should identify when the balance changed and why.
+# 
 
-**If not proportionate:** The expert should identify what earlier treatment would ordinarily have been considered reasonable.
+# \*\*Question:\*\*  
 
-**Engages:** PROP-0005, PROP-0006, PROP-0008, PROP-0014
+# How should an independent movement-disorders expert clinically characterise the July 2017 coexistence of severe young-onset Parkinsonism, increased tone, bradykinesia, a footdrop-like gait described as suggestive of dystonic posture and expressly “NOT FOOT DROP,” together with pes planus, hammertoes, corns, callouses and bilateral foot pain?
 
-## EQ-0005 — Disease progression vs symptomatic cost of delay
+# 
 
-**Question:** Assuming, as the 2017 record stated, that delaying symptomatic treatment did not worsen neuropathological progression, does that proposition have any bearing on whether the patient nevertheless incurred avoidable symptomatic, functional or quality-of-life burden during the years of deferral?
+# \*\*Documentary basis:\*\*  
 
-**If no material symptomatic cost:** The progression-neutrality statement is broadly consistent with the practical consequences of the strategy.
+# FACT-0045, FACT-0046, FACT-0049, FACT-0050, FACT-0084–FACT-0090
 
-**If material symptomatic cost:** The expert should distinguish absence of neurodegenerative harm from avoidable morbidity caused by delayed symptomatic treatment.
+# 
 
-**Engages:** PROP-0008, PROP-0009
+# \*\*Tensions:\*\*  
 
-## EQ-0006 — Earlier levodopa and probable functional effect
+# TENSION-0001, TENSION-0003
 
-**Question:** If levodopa had been introduced earlier, is it more likely than not that it would have materially improved gait, rigidity, dystonia, lower-limb function, foot-related disability or pain during the period of deferral?
+# 
 
-**If yes:** The expert should identify which symptoms were likely responsive, the likely degree and duration of benefit, and the earliest clinically reasonable treatment point.
+# \*\*Propositions:\*\*  
 
-**If no or uncertain:** The documentary record cannot support a counterfactual claim of meaningful earlier functional improvement from levodopa.
+# PROP-0001, PROP-0002, PROP-0003
 
-**Engages:** PROP-0006, PROP-0008, PROP-0012
+# 
 
-## EQ-0007 — Meaning of later dyskinesia for the earlier rationale
+# \*\*Expert should distinguish:\*\*
 
-**Question:** How should the later statement that Sinemet may fuel or reveal dyskinesia but does not cause it be reconciled with the earlier strategy of preserving levodopa for as long as possible because of dyskinesia risk?
+# 
 
-**If consistent:** The later formulation may represent a refinement of the same reasonable concern about exposing an underlying susceptibility.
+# \- genuine structural pathology;
 
-**If materially inconsistent:** The expert should explain whether the earlier strategy overstated the long-term protective value of delaying levodopa.
+# \- dystonia or other Parkinsonian lower-limb phenomena;
 
-**Engages:** PROP-0006, PROP-0010
+# \- peripheral/neuropathic possibilities;
 
-## EQ-0008 — Use of later adverse effects to justify earlier restraint
+# \- mixed or interacting mechanisms.
 
-**Question:** To what extent can the later occurrence of chorea/dyskinesia and compulsive-behaviour concerns legitimately validate the reasonableness of treatment decisions made years earlier, and to what extent should those earlier decisions be judged only by information available contemporaneously?
+# 
 
-**If strongly validating:** The later adverse effects materially support the original risk assessment and degree of restraint.
+# \*\*Outcome range:\*\*  
 
-**If only partially validating:** They show that caution and monitoring were justified but do not establish that prolonged avoidance was proportionate.
+# A. Predominantly mixed structural and neurological phenotype.  
 
-**Engages:** PROP-0006, PROP-0007
+# B. Predominantly neurological phenotype with independent structural disease.  
 
-## EQ-0009 — Genetic testing and management relevance
+# C. Predominantly structural/peripheral foot disease alongside separate Parkinsonism.  
 
-**Question:** Given the 2017 specialist view that PARK2 was probable, the recommendation for testing, the stated association with low-dose dopamine replacement and dyskinesia if over-used, and the 2018 acknowledgement that testing might inform prognostication or levodopa sensitivities, could timely genetic confirmation reasonably have altered treatment strategy, counselling, monitoring or prognosis?
+# D. Reliable retrospective allocation is not possible.
 
-**If yes:** The expert should identify the likely management consequence and whether delay could have mattered clinically.
+# 
 
-**If no:** The decision to postpone testing was unlikely to affect treatment or outcome.
+# \*\*Boundary:\*\*  
 
-**Engages:** PROP-0011
+# No answer should assume that every historical foot symptom had one cause.
 
-## EQ-0010 — Nature and mechanism of the foot pain
+# 
 
-**Question:** Which mechanism or combination of mechanisms best explains the longitudinal foot pain: local structural pathology, painful dystonia, OFF-state dystonia, altered gait/loading, central or non-motor pain amplification, secondary musculoskeletal injury, peripheral neuropathic processes, or another mechanism?
+# \---
 
-**Outcome required:** The expert should distinguish, so far as the record permits, the generator of pain from structural lesions that may themselves have been downstream consequences of altered gait or tone.
+# 
 
-**Engages:** PROP-0001, PROP-0002, PROP-0013
+# \# EQ-0002 — What was the clinical significance of “Not clear”?
 
-## EQ-0011 — Evidential weight of medication-related pain relief
+# 
 
-**Question:** What weight should be given to the repeated documentary association between Parkinson's medication state and relief or worsening of foot/leg pain, given the 2025 neurologist's express caution that Sinemet can lessen the experience of pain even where the primary pain generator is not Parkinsonian?
+# \*\*Question:\*\*  
 
-**If mechanistically significant:** The response supports a neurological or mixed neurological-biomechanical contribution.
+# What clinical significance should be attached to the neurologist expressly recording in 2017 that the relationship between the leg symptoms, corns, callouses and burning was “Not clear”?
 
-**If non-specific:** Medication response alone cannot establish the primary pain generator and must be interpreted with the structural and neurological findings together.
+# 
 
-**Engages:** PROP-0013
+# \*\*Documentary basis:\*\*  
 
-## EQ-0012 — Evidence and timing of undertreatment
+# FACT-0047, FACT-0048, FACT-0050, FACT-0051
 
-**Question:** Do the 2021 record that the patient felt undertreated, the 2023 consultant's suspicion that lack of levodopa explained much evening walking difficulty, and the Parkinson's nurse's express assessment of undertreatment with OFF-related leg pain and shuffling indicate that the treatment strategy had become clinically insufficient before those dates?
+# 
 
-**If yes:** The expert should identify the earliest defensible point, likely consequences and appropriate management response.
+# \*\*Tensions:\*\*  
 
-**If no:** The later escalation may represent ordinary evolution of disease and treatment needs rather than evidence that the earlier strategy was inadequate.
+# TENSION-0002
 
-**Engages:** PROP-0012, PROP-0014
+# 
 
-## EQ-0013 — Overall longitudinal coherence
+# \*\*Propositions:\*\*  
 
-**Question:** Taking the record longitudinally rather than encounter by encounter, was the evolving relationship between Parkinsonism, structural foot pathology, pain, treatment response, genetic suspicion and medication risk recognised and managed in a clinically coherent way?
+# PROP-0003, PROP-0004
 
-**If yes:** The record is consistent with reasonable management of an unusually young, treatment-sensitive patient with overlapping neurological and structural problems.
+# 
 
-**If no:** The expert should identify the specific points at which the clinical model, investigation plan or treatment strategy should reasonably have changed and what action should then have followed.
+# \*\*Expert should address:\*\*
 
-**Engages:** PROP-0001 through PROP-0015
+# 
+
+# \- whether this represented an unresolved differential requiring later review;
+
+# \- whether subsequent parallel Neurology/Podiatry management could reasonably proceed without resolving it;
+
+# \- what later events would ordinarily be expected to trigger reconsideration.
+
+# 
+
+# \*\*Boundary:\*\*  
+
+# Operational referral to Podiatry is not itself proof that Neurology had concluded the foot problem was unrelated.
+
+# 
+
+# \---
+
+# 
+
+# \# EQ-0003 — Was parallel Neurology/Podiatry management clinically reasonable, and what follow-up did it require?
+
+# 
+
+# \*\*Question:\*\*  
+
+# Was it clinically reasonable in 2017 to manage the neurological syndrome through Neurology and the structural foot pathology through Podiatry while their relationship remained unresolved; and, if so, did reasonable care require continuing integration or later reassessment of those two streams?
+
+# 
+
+# \*\*Documentary basis:\*\*  
+
+# FACT-0050, FACT-0052, FACT-0084–FACT-0091
+
+# 
+
+# \*\*Tensions:\*\*  
+
+# TENSION-0001, TENSION-0002, TENSION-0003
+
+# 
+
+# \*\*Propositions:\*\*  
+
+# PROP-0004, PROP-0005
+
+# 
+
+# \*\*Expert should identify:\*\*  
+
+# What clinical development, if any, would ordinarily require the two pathways to be reconsidered together.
+
+# 
+
+# \---
+
+# 
+
+# \# EQ-0004 — What did the 2017–2018 procyclidine sequence clinically signify?
+
+# 
+
+# \*\*Question:\*\*  
+
+# What clinical weight should be given to the marked functional response to procyclidine/rasagiline and the subsequent withdrawal deterioration, including the rapid return of the outside-left-foot phenomenon, worsening gait/tension and increased restlessness?
+
+# 
+
+# \*\*Documentary basis:\*\*  
+
+# FACT-0011, FACT-0013, FACT-0014, FACT-0015, FACT-0033, FACT-0056, FACT-0060, FACT-0061
+
+# 
+
+# \*\*Tensions:\*\*  
+
+# TENSION-0004
+
+# 
+
+# \*\*Propositions:\*\*  
+
+# PROP-0006
+
+# 
+
+# \*\*Expert should distinguish:\*\*
+
+# 
+
+# \- evidence that lower-limb symptoms were treatment-state sensitive;
+
+# \- evidence relevant to dystonia/tone/gait;
+
+# \- evidence relevant to pain or loading;
+
+# \- what the response cannot establish about the mechanism of the structural lesion.
+
+# 
+
+# \*\*Key question:\*\*  
+
+# Was this sequence sufficiently informative that the original foot/neurology partition should then have been reconsidered?
+
+# 
+
+# \---
+
+# 
+
+# \# EQ-0005 — Was prolonged levodopa deferral clinically proportionate?
+
+# 
+
+# \*\*Question:\*\*  
+
+# Was the decision to defer levodopa for approximately four years clinically reasonable and proportionate in this very-young-onset presentation, having regard both to the documented risks of dyskinesia/behavioural complications and to the accumulating symptom burden and anticipated benefit?
+
+# 
+
+# \*\*Documentary basis:\*\*  
+
+# FACT-0009, FACT-0010, FACT-0011, FACT-0012, FACT-0034, FACT-0039, FACT-0053, FACT-0054, FACT-0059, FACT-0098, FACT-0099
+
+# 
+
+# \*\*Tensions:\*\*  
+
+# TENSION-0005, TENSION-0006
+
+# 
+
+# \*\*Propositions:\*\*  
+
+# PROP-0007, PROP-0008, PROP-0009
+
+# 
+
+# \*\*Expert should address separately:\*\*
+
+# 
+
+# 1\. the reasonableness of initial caution in 2017;
+
+# 2\. the reasonableness of continuing that strategy through 2018–2020;
+
+# 3\. whether disability or treatment-state information created an earlier threshold for levodopa;
+
+# 4\. whether the treatment strategy should have been modified even if the initial strategy was reasonable.
+
+# 
+
+# \*\*Boundary:\*\*  
+
+# The question is not “should levodopa automatically have been started in July 2017?”
+
+# 
+
+# \---
+
+# 
+
+# \# EQ-0006 — What exactly was levodopa deferral intended to prevent?
+
+# 
+
+# \*\*Question:\*\*  
+
+# Clinically, what adverse outcomes was prolonged levodopa deferral capable of preventing or postponing in a patient of this age and phenotype?
+
+# 
+
+# \*\*Documentary basis:\*\*  
+
+# FACT-0039, FACT-0053, FACT-0054, FACT-0096, FACT-0098
+
+# 
+
+# \*\*Tensions:\*\*  
+
+# TENSION-0006, TENSION-0007
+
+# 
+
+# \*\*Propositions:\*\*  
+
+# PROP-0007, PROP-0009, PROP-0010
+
+# 
+
+# \*\*Expert should expressly distinguish:\*\*
+
+# 
+
+# \- disease progression;
+
+# \- dyskinesia susceptibility;
+
+# \- timing or severity of motor complications;
+
+# \- cumulative levodopa exposure;
+
+# \- dopamine dysregulation / impulse-control risk;
+
+# \- present symptomatic disability.
+
+# 
+
+# \*\*Key issue:\*\*  
+
+# Does the statement that delaying symptomatic therapy did not disadvantage underlying disease progression answer the separate question of untreated symptom burden?
+
+# 
+
+# \---
+
+# 
+
+# \# EQ-0007 — What do the later dyskinesias prove about the earlier strategy?
+
+# 
+
+# \*\*Question:\*\*  
+
+# What retrospective clinical significance, if any, should be attributed to the later development of chorea/dyskinesia and treatment sensitivity when assessing the earlier decision to restrict levodopa?
+
+# 
+
+# \*\*Documentary basis:\*\*  
+
+# FACT-0016, FACT-0017, FACT-0021, FACT-0022, FACT-0065, FACT-0066, FACT-0077, FACT-0078, FACT-0081, FACT-0096
+
+# 
+
+# \*\*Tensions:\*\*  
+
+# TENSION-0007
+
+# 
+
+# \*\*Propositions:\*\*  
+
+# PROP-0010
+
+# 
+
+# \*\*Expert should distinguish:\*\*  
+
+# Evidence that treatment caution was justified from evidence that the particular duration of earlier deferral was justified.
+
+# 
+
+# \*\*Boundary:\*\*  
+
+# Later dyskinesia should not be treated as automatic retrospective proof of the correct earlier start date or dose.
+
+# 
+
+# \---
+
+# 
+
+# \# EQ-0008 — What is the significance of the 2020 parkinsonian foot throw?
+
+# 
+
+# \*\*Question:\*\*  
+
+# What clinical significance should be attached to the 2020 finding that the apparent foot-drop-like “throw” was considered Parkinsonian because dorsiflexion, plantarflexion, inversion and eversion power were normal?
+
+# 
+
+# \*\*Documentary basis:\*\*  
+
+# FACT-0035, FACT-0063
+
+# 
+
+# \*\*Tensions:\*\*  
+
+# TENSION-0009
+
+# 
+
+# \*\*Propositions:\*\*  
+
+# PROP-0011
+
+# 
+
+# \*\*Expert should address:\*\*  
+
+# Whether this represented a material reinterpretation of a lower-limb phenomenon relevant to the unresolved 2017 presentation, and whether it should have triggered broader reassessment of the historical foot/gait model.
+
+# 
+
+# \---
+
+# 
+
+# \# EQ-0009 — What is the clinical significance of the 2023 undertreatment findings?
+
+# 
+
+# \*\*Question:\*\*  
+
+# How should an expert interpret the 2023 consultant suspicion that inability to walk substantially reflected lack of levodopa and the Parkinson's nurse's express assessment that the patient appeared undertreated and that leg pain and shuffling were OFF-related?
+
+# 
+
+# \*\*Documentary basis:\*\*  
+
+# FACT-0024, FACT-0036, FACT-0072, FACT-0073
+
+# 
+
+# \*\*Tensions:\*\*  
+
+# TENSION-0010
+
+# 
+
+# \*\*Propositions:\*\*  
+
+# PROP-0012
+
+# 
+
+# \*\*Expert should identify:\*\*
+
+# 
+
+# \- whether these were clinically reasonable assessments;
+
+# \- what they imply about the treatment state in 2023;
+
+# \- whether they retrospectively illuminate an earlier period;
+
+# \- if so, how far backward such an inference can safely extend.
+
+# 
+
+# \*\*Boundary:\*\*  
+
+# A 2023 finding of undertreatment does not itself establish continuous undertreatment since 2017.
+
+# 
+
+# \---
+
+# 
+
+# \# EQ-0010 — How should the longitudinal foot pain be phenotyped?
+
+# 
+
+# \*\*Question:\*\*  
+
+# Across the full record, how should the foot pain be clinically phenotyped?
+
+# 
+
+# \*\*Documentary basis:\*\*  
+
+# FACT-0067, FACT-0069, FACT-0072, FACT-0073, FACT-0075, FACT-0079, FACT-0080, FACT-0081, FACT-0084–FACT-0090, FACT-0094, FACT-0095, FACT-0100, FACT-0101, FACT-0103
+
+# 
+
+# \*\*Tensions:\*\*  
+
+# TENSION-0003, TENSION-0012, TENSION-0013
+
+# 
+
+# \*\*Propositions:\*\*  
+
+# PROP-0002, PROP-0005, PROP-0014, PROP-0016
+
+# 
+
+# \*\*Expert should consider separately:\*\*
+
+# 
+
+# \- structural/mechanical pain;
+
+# \- recurrent fifth-MTPJ loading;
+
+# \- painful dystonia;
+
+# \- OFF-related pain amplification;
+
+# \- neuropathic pain;
+
+# \- non-specific central modulation of pain by dopamine;
+
+# \- mixed mechanisms.
+
+# 
+
+# \*\*Required conclusion:\*\*  
+
+# If possible, identify which components can be attributed with reasonable confidence and which remain indeterminate.
+
+# 
+
+# \---
+
+# 
+
+# \# EQ-0011 — What does Sinemet-related pain relief actually establish?
+
+# 
+
+# \*\*Question:\*\*  
+
+# What inference can properly be drawn from repeated improvement in foot pain when Sinemet becomes effective, including the 2025 Sinemet CR response?
+
+# 
+
+# \*\*Documentary basis:\*\*  
+
+# FACT-0024, FACT-0028, FACT-0038, FACT-0079, FACT-0094, FACT-0095, FACT-0101, FACT-0102, FACT-0103
+
+# 
+
+# \*\*Tensions:\*\*  
+
+# TENSION-0012, TENSION-0014
+
+# 
+
+# \*\*Propositions:\*\*  
+
+# PROP-0014, PROP-0015
+
+# 
+
+# \*\*Expert should distinguish:\*\*
+
+# 
+
+# \- evidence of an OFF-state or dystonic component;
+
+# \- non-specific modulation of pain perception;
+
+# \- evidence of functional benefit;
+
+# \- evidence that cannot establish the underlying generator.
+
+# 
+
+# \*\*Boundary:\*\*  
+
+# Dopaminergic responsiveness alone must not be treated as proof that all pain was caused directly by Parkinsonism.
+
+# 
+
+# \---
+
+# 
+
+# \# EQ-0012 — What is the counterfactual significance of the 2025 Sinemet CR response?
+
+# 
+
+# \*\*Question:\*\*  
+
+# Given the clinician-recorded “profound relief currently” following cautious Sinemet CR escalation, and the subsequent description of Sinemet CR as an effective analgesic for the foot pain, does the 2025 response support a clinically meaningful inference that a similar therapeutic strategy should reasonably have been trialled earlier?
+
+# 
+
+# \*\*Documentary basis:\*\*  
+
+# FACT-0081, FACT-0082, FACT-0083, FACT-0100, FACT-0101, FACT-0102, FACT-0103
+
+# 
+
+# \*\*Tensions:\*\*  
+
+# TENSION-0014
+
+# 
+
+# \*\*Propositions:\*\*  
+
+# PROP-0015
+
+# 
+
+# \*\*Expert should identify:\*\*
+
+# 
+
+# \- whether the response materially strengthens an earlier-treatment counterfactual;
+
+# \- the earliest date at which such a trial would reasonably have been contemplated;
+
+# \- how dyskinesia risk alters that assessment;
+
+# \- whether the likely net benefit can be expressed with reasonable clinical confidence.
+
+# 
+
+# \*\*Boundary:\*\*  
+
+# A successful 2025 intervention does not automatically establish the outcome of the same intervention years earlier.
+
+# 
+
+# \---
+
+# 
+
+# \# EQ-0013 — What was the clinical importance of early PARK2/PRKN suspicion?
+
+# 
+
+# \*\*Question:\*\*  
+
+# Given the very-young-onset phenotype, specialist opinion that the patient probably had PARK2, and recommendation for targeted genetic testing, what clinical significance should have been attached to the PARK2/PRKN hypothesis in 2017–2018?
+
+# 
+
+# \*\*Documentary basis:\*\*  
+
+# FACT-0011, FACT-0012, FACT-0040, FACT-0057, FACT-0058
+
+# 
+
+# \*\*Tensions:\*\*  
+
+# TENSION-0008
+
+# 
+
+# \*\*Propositions:\*\*  
+
+# PROP-0017
+
+# 
+
+# \*\*Expert should address whether earlier confirmation could reasonably have affected:\*\*
+
+# 
+
+# \- phenotyping;
+
+# \- interpretation of dystonia;
+
+# \- expected treatment response;
+
+# \- sensitivity to dyskinesia;
+
+# \- counselling;
+
+# \- treatment strategy;
+
+# \- referral to a movement-disorders subspecialist;
+
+# \- longitudinal reassessment.
+
+# 
+
+# \*\*Boundary:\*\*  
+
+# The contemporaneous record itself contains the competing view that genetic confirmation might not materially change immediate management.
+
+# 
+
+# \---
+
+# 
+
+# \# EQ-0014 — What does the 2026 Parkin confirmation change retrospectively?
+
+# 
+
+# \*\*Question:\*\*  
+
+# What retrospective clinical significance should be assigned to the 2026 specialist conclusion that the patient's Parkinsonism and dystonia were caused by compound heterozygous pathogenic Parkin variants?
+
+# 
+
+# \*\*Documentary basis:\*\*  
+
+# FACT-0049, FACT-0057, FACT-0058, FACT-0092
+
+# 
+
+# \*\*Tensions:\*\*  
+
+# TENSION-0008, TENSION-0015
+
+# 
+
+# \*\*Propositions:\*\*  
+
+# PROP-0017, PROP-0018
+
+# 
+
+# \*\*Expert should distinguish:\*\*
+
+# 
+
+# \- confirmation of the historical PARK2/PRKN etiological branch;
+
+# \- confirmation that dystonia formed part of the genetically defined disorder;
+
+# \- what this may imply for interpretation of historical dystonic-looking lower-limb findings;
+
+# \- what it does \*\*not\*\* prove about corns, callouses, neuropathic symptoms or other structural pathology.
+
+# 
+
+# \---
+
+# 
+
+# \# EQ-0015 — Identify the longitudinal reassessment thresholds
+
+# 
+
+# \*\*Question:\*\*  
+
+# Taking the complete record as a chronology rather than as isolated encounters, identify every point at which a reasonable movement-disorders clinician should have reconsidered:
+
+# 
+
+# 1\. the relationship between the Parkinsonian/dystonic syndrome and the foot/lower-limb symptoms;
+
+# 2\. the adequacy of the existing dopaminergic treatment strategy;
+
+# 3\. whether additional investigation, genetic clarification or subspecialist review was indicated.
+
+# 
+
+# \*\*Documentary basis:\*\*  
+
+# Entire controlled fact register, with particular emphasis on FACT-0050, FACT-0033, FACT-0034, FACT-0035, FACT-0023, FACT-0024, FACT-0036, FACT-0072, FACT-0101 and FACT-0092.
+
+# 
+
+# \*\*Tensions:\*\*  
+
+# TENSION-0016 and all preceding tensions as relevant.
+
+# 
+
+# \*\*Propositions:\*\*  
+
+# PROP-0019, PROP-0020
+
+# 
+
+# \*\*Required format of expert answer:\*\*  
+
+# For each material decision point, state:
+
+# 
+
+# \- approximate date;
+
+# \- information then available;
+
+# \- reasonable options then available;
+
+# \- whether continued observation was reasonable;
+
+# \- whether explicit reassessment was required;
+
+# \- whether treatment alteration was required or merely reasonably available;
+
+# \- confidence level.
+
+# 
+
+# This is the principal expert question.
+
+# 
+
+# \---
+
+# 
+
+# \# EQ-0016 — If reassessment should have occurred earlier, what difference would it probably have made?
+
+# 
+
+# \*\*Question:\*\*  
+
+# Conditional upon the expert identifying one or more earlier points at which the clinical model or treatment strategy should reasonably have changed, what difference would that probably have made to the patient's symptom burden and function?
+
+# 
+
+# \*\*Documentary basis:\*\*  
+
+# FACT-0034, FACT-0035, FACT-0024, FACT-0036, FACT-0079, FACT-0101, FACT-0102, FACT-0103
+
+# 
+
+# \*\*Propositions:\*\*  
+
+# PROP-0008, PROP-0012, PROP-0015, PROP-0019
+
+# 
+
+# \*\*Expert should address, where clinically supportable:\*\*
+
+# 
+
+# \- walking and gait;
+
+# \- dystonia/clawing;
+
+# \- pain burden;
+
+# \- morning and evening function;
+
+# \- ability to work or undertake ordinary activity;
+
+# \- medication complications that earlier treatment might itself have caused.
+
+# 
+
+# \*\*Boundary:\*\*  
+
+# The expert should identify uncertainty rather than manufacture a counterfactual that the documentary record cannot support.
+
+# 
+
+# \---
+
+# 
+
+# \# Expert outcome discipline
+
+# 
+
+# The expert should not be asked simply whether the historical treatment was “right” or “wrong.”
+
+# 
+
+# The report should instead establish:
+
+# 
+
+# \- what the reasonable clinical model was at each material stage;
+
+# \- when new information materially changed that model;
+
+# \- whether and when reassessment became clinically required;
+
+# \- what treatment options were reasonably available at those points;
+
+# \- the competing risks of treatment and non-treatment;
+
+# \- what consequences, if any, probably followed from any clinically significant delay.
+
+# 
+
+# \# Governing expert hinge
+
+# 
+
+# > \*\*Was the initial 2017 uncertainty and parallel-management strategy reasonably maintained throughout the later chronology, or did the accumulating evidence create one or more identifiable dates at which a reasonable movement-disorders clinician should have reformulated the case and/or altered the treatment strategy?\*\*
+
