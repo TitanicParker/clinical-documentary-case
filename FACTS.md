@@ -239,3 +239,309 @@
 **Fact:** In 2018, the neurologist stated that genetic testing did not particularly change current management and therefore saw no great loss in not knowing immediately, while also recording that there was reasonable logic to performing isolated PARK2/PRKN testing or the 30-gene panel at that time and that Prof Healy would support that approach.
 
 **Source:** CLIN-001955–CLIN-001956
+
+## FACT-0041
+
+**Fact:** At the initial GP presentation on 10 April 2017, the patient reported that he thought his abnormal gait had begun with a previous left-leg sciatica problem and might by then be "habitual," while also reporting no current back or leg pain.
+
+**Source:** CLIN-000020–CLIN-000026
+
+## FACT-0042
+
+**Fact:** On 8 June 2017, the GP recorded difficulty with initiation of movement, including the patient's account that he timed standing on a slowing bus so that the vehicle's momentum would help propel him forward, and recorded consideration of neurological assessment of the gait, feet and "muscle tension" issues.
+
+**Source:** CLIN-000066–CLIN-000074
+
+## FACT-0043
+
+**Fact:** On 12 June 2017, an occupational-health doctor contacted the GP about the patient's gait and was recorded as echoing the GP's concerns, prompting neurology referral before the old records had been obtained.
+
+**Source:** CLIN-000102–CLIN-000105
+
+## FACT-0044
+
+**Fact:** On 23 June 2017, the patient reported that gait problems were making gowning and ungowning for clean-room work difficult and that he had been drinking on most nights to help "relax muscles"; examination recorded marked increased tone in both legs and brisk upper-limb reflexes.
+
+**Source:** CLIN-000192–CLIN-000199
+
+## FACT-0045
+
+**Fact:** In the 29 June 2017 urgent referral, the GP described an unusual festinant and stiff gait first observed when the patient attended with bilateral foot problems and recorded that the patient had attributed the gait at that time to callouses and corns.
+
+**Source:** CLIN-000851–CLIN-000855
+
+## FACT-0046
+
+**Fact:** The same urgent referral recorded increasing difficulty initiating movement, marked stiffness and increased tone in upper and lower limbs with brisk reflexes, and the patient's report that he could not relax his muscles in bed and would claw his toes while trying to get comfortable.
+
+**Source:** CLIN-000856–CLIN-000865
+
+## FACT-0047
+
+**Fact:** The July 2017 detailed history recorded the patient's retrospective account that corns, calluses and fallen arches had followed the earlier onset of bodily/leg tension, that his feet had required treatment since about 2009–2010, and that leaving bar work in 2012 reduced the foot pain while leg tension continued.
+
+**Source:** CLIN-000959–CLIN-000975
+
+## FACT-0048
+
+**Fact:** The July 2017 detailed history recorded that the patient had come to regard the foot pain and the leg tension as different problems because the foot pain reduced while the tension remained.
+
+**Source:** CLIN-000971–CLIN-000976
+
+## FACT-0049
+
+**Fact:** The July 2017 neurological examination described a strikingly abnormal gait with a footdrop-like appearance considered suggestive of dystonic posture and expressly labelled "NOT FOOT DROP"; the same examination recorded absent arm swing, gross rigidity/bradykinesia, a left lower-limb kick resembling foot drop, pes planus and hammertoes.
+
+**Source:** CLIN-001097–CLIN-001120
+
+## FACT-0050
+
+**Fact:** The 2017 neurologist recorded that the leg symptoms, including corns, callouses and burning, might have been completely separate or might have represented a secondary peripheral neuropathy, possibly related in some respect to prior alcohol intake, and expressly concluded "Not clear."
+
+**Source:** CLIN-001142–CLIN-001145
+
+## FACT-0051
+
+**Fact:** The same 2017 neurologist recorded that the patient had markedly separated the predominant leg-tension problem in his own mind from the corns, callouses and foot pain, while also noting that the structural foot problems remained present but had become less troublesome after he spent less time on his feet.
+
+**Source:** CLIN-001146–CLIN-001149
+
+## FACT-0052
+
+**Fact:** Despite the unresolved relationship between neurological leg symptoms and the foot complaints, the 2017 neurological plan separately requested outpatient Chiropody/Podiatry referral in addition to the neurological investigations and therapies.
+
+**Source:** CLIN-001153–CLIN-001165, CLIN-001225–CLIN-001229
+
+## FACT-0053
+
+**Fact:** The stated 2017 reason for avoiding usual levodopa or dopamine-agonist treatment was concern that onset may have been around age 24–26 and that very young patients could be especially sensitive to adverse effects, develop dyskinesia more rapidly and be more susceptible to impulse-control disorders or punding.
+
+**Source:** CLIN-001166–CLIN-001180
+
+## FACT-0054
+
+**Fact:** The 2017 treatment plan did not state that levodopa or dopamine agonists would never be used; it expressly recorded that those treatments might ultimately be advised sooner or later while the team intended to avoid them for as long as possible at that stage.
+
+**Source:** CLIN-001166–CLIN-001180
+
+## FACT-0055
+
+**Fact:** The initial procyclidine plan provided for very slow stepwise titration because of the patient's concern about adverse cognitive effects and contemplated a later test withdrawal only if the medication had produced no great obvious benefit.
+
+**Source:** CLIN-001196–CLIN-001216
+
+## FACT-0056
+
+**Fact:** In September 2017 the GP recorded that the patient was doing well on procyclidine and that, while increasing to half a tablet three times daily, he did not want to escalate further while he continued to do well.
+
+**Source:** CLIN-000657–CLIN-000666
+
+## FACT-0057
+
+**Fact:** The 2017 neurologist considered autosomal-recessive Parkinsonism plausible and specifically identified PRKN/PARK2 as a possibility because of the very young onset, akinetic-rigid phenotype, lack of dominant family history, marked symmetry and preserved cognition, while also listing PARK6, PARK7 and PARK9 among rarer possibilities.
+
+**Source:** CLIN-001515–CLIN-001525
+
+## FACT-0058
+
+**Fact:** The 2017 genetic discussion stated that a firm genetic diagnosis would often not actively change management, but might provide information about neuropathological form, prognostication and possibly levodopa sensitivities; the clinician also recorded the limitations and uncertainty of prognostication.
+
+**Source:** CLIN-001493–CLIN-001497, CLIN-001546–CLIN-001560
+
+## FACT-0059
+
+**Fact:** The 2017 neurology record stated that, whatever the precise genetic cause, levodopa or dopamine agonists would ordinarily be used but that in this patient's situation the team intended to be extremely cautious and to try other symptomatic approaches first.
+
+**Source:** CLIN-001561–CLIN-001570
+
+## FACT-0060
+
+**Fact:** In April 2018 the patient reported foot and hand cramps, reduced gait fluency and speed, major relief from tension, improved floor-surface transitions and benefit from bilateral toe supports.
+
+**Source:** CLIN-001887–CLIN-001905
+
+## FACT-0061
+
+**Fact:** In April 2018 the patient reported that missing procyclidine was followed by greater tightness in the left buttock/piriformis region, while the neurological examination recorded only mild bradykinesia and a very good walk with good arm swing on treatment.
+
+**Source:** CLIN-001924–CLIN-001941
+
+## FACT-0062
+
+**Fact:** The 2018 neurologist recorded an opinion that people with Parkinson's disease can have a magnified experience of otherwise ordinary pain and used that interpretation when discussing the patient's prolonged neck, back, cramp and spasm symptoms.
+
+**Source:** CLIN-001948–CLIN-001952
+
+## FACT-0063
+
+**Fact:** In 2020 the patient was recorded as having a bad corn on the outside of the left foot, with bunion covers reported as successful local treatment.
+
+**Source:** CLIN-002263–CLIN-002265
+
+## FACT-0064
+
+**Fact:** In 2020, before considering Sinemet, the neurologist recorded that a future trial of low-dose Neupro 2–4 mg might be considered despite prior problems at higher dopamine-agonist doses, and noted that a small dose might help the restless-leg symptoms.
+
+**Source:** CLIN-002294–CLIN-002297
+
+## FACT-0065
+
+**Fact:** In October 2021 the neurologist stated that the rapid increase to Sinemet 62.5 mg four times daily was somewhat justified by the need to remove Kemadrin, while also noting that concurrent Comtess could make the effective levodopa exposure greater than the nominal Sinemet dose suggested.
+
+**Source:** CLIN-002347–CLIN-002352
+
+## FACT-0066
+
+**Fact:** The October 2021 neurologist restated a treatment principle of sparing Sinemet as long as possible in very young patients and keeping levodopa dosing as low as possible once introduced.
+
+**Source:** CLIN-002352–CLIN-002354
+
+## FACT-0067
+
+**Fact:** In 2022 the patient reported that most mornings his feet took 20–25 minutes to "warm up" and were sore, with corns and calluses producing a "coronal pain" around the edges; he questioned whether the pain might be neuralgic.
+
+**Source:** CLIN-002377–CLIN-002383
+
+## FACT-0068
+
+**Fact:** In 2022 the patient was recorded as adjusting Sinemet according to anticipated functional demands, including playing darts.
+
+**Source:** CLIN-002384–CLIN-002386
+
+## FACT-0069
+
+**Fact:** In March 2023 the GP urgently referred the patient because of severe bilateral burning pain in the feet and lower legs, described at times as extreme and associated with a death wish; the GP recorded that escalating pregabalin had only just begun to control the symptoms and expressed concern about the patient's overall state.
+
+**Source:** CLIN-002623–CLIN-002638
+
+## FACT-0070
+
+**Fact:** In the same March 2023 referral, the GP recalled a previous episode of arm pain treated with gabapentin and recorded that those pains had then settled suddenly with better control of the Parkinsonism.
+
+**Source:** CLIN-002635–CLIN-002638
+
+## FACT-0071
+
+**Fact:** In March 2023 the patient told the Parkinson's nurse that he had stopped his Parkinson's medication for ten days and felt no difference from a Parkinson's perspective; this was recorded alongside his belief at that time that the debilitating foot/leg pain was not Parkinson-related.
+
+**Source:** CLIN-002675–CLIN-002684
+
+## FACT-0072
+
+**Fact:** In the 2023 consultant review, the patient described recurrent bilateral foot pain and left-leg cramping; the neurologist expressly raised possible Parkinsonian dystonia and considered OFF dystonia more likely than ON dystonia.
+
+**Source:** CLIN-002425–CLIN-002429
+
+## FACT-0073
+
+**Fact:** The 2023 consultant review recorded that pregabalin had largely removed the foot pain, while the patient still could not perform a fourth evening walk and identified clawing as one component of that limitation.
+
+**Source:** CLIN-002447–CLIN-002448
+
+## FACT-0074
+
+**Fact:** The 2023 neurologist recorded that substantial alcohol and cannabis use made interpretation of the pain, gait and treatment-state picture difficult.
+
+**Source:** CLIN-002449–CLIN-002460
+
+## FACT-0075
+
+**Fact:** In 2024 the patient reported that prolonged standing for darts worsened foot pain, that pregabalin had removed the right-foot pain and improved but not eliminated the left-foot pain, and that pregabalin did not prevent toe curling during activity; he was nevertheless able to walk or cycle long distances.
+
+**Source:** CLIN-002698–CLIN-002700
+
+## FACT-0076
+
+**Fact:** In 2024 alpha-galactosidase and beta-hexosaminidase testing were documented as normal, and the neurologist recorded that Fabry disease did not explain the Parkinsonism.
+
+**Source:** CLIN-002701–CLIN-002702
+
+## FACT-0077
+
+**Fact:** In 2024 the patient considered his medication "spot on" and no dyskinesia was seen at that visit, but the neurologist continued to record concern that even minimal Sinemet could produce mild dyskinesia and framed evening treatment as a balance between benefit and excessive dopaminergic stimulation.
+
+**Source:** CLIN-002703–CLIN-002710
+
+## FACT-0078
+
+**Fact:** In 2025 the neurologist characterised the patient's afternoon spread-footed, excessive foot movement and gait as a dyskinetic walk, with dyskinesia becoming more apparent during examination; the patient also described mornings as his best time for Parkinsonism and evenings as more constrained by the condition.
+
+**Source:** CLIN-002771–CLIN-002776
+
+## FACT-0079
+
+**Fact:** In 2025 the patient reported hobbling on first rising, feet too sore to tie his shoes, and the first approximately 150 steps as "torture" before later walking hundreds of steps over rough ground; he also reported improvement once Parkinson's medication took effect.
+
+**Source:** CLIN-002777–CLIN-002780
+
+## FACT-0080
+
+**Fact:** The 2025 neurologist considered that reduction of pregabalin might itself be contributing to the renewed foot symptoms and distinguished that possibility from any psychological indication for pregabalin.
+
+**Source:** CLIN-002784–CLIN-002788
+
+## FACT-0081
+
+**Fact:** The 2025 neurologist stated that increasing Sinemet would probably give some further pain relief but would also be expected to produce substantially worse dyskinesia, and for that reason suggested considering more pregabalin rather than simply increasing Parkinson's medication.
+
+**Source:** CLIN-002789–CLIN-002792
+
+## FACT-0082
+
+**Fact:** In 2025 the patient's concern that morning disability might reflect the overnight medication gap led to discussion of nocturnal controlled-release Sinemet and of taking morning medication while still in bed to help "get himself going."
+
+**Source:** CLIN-002792–CLIN-002797
+
+## FACT-0083
+
+**Fact:** The 2025 neurologist decided to start controlled-release Sinemet at night, initially at half of a "Half Sinemet CR" tablet with a planned increase after about two months if tolerated, while warning that the trial might provoke intolerable dyskinesia or night-time dreaming.
+
+**Source:** CLIN-002793–CLIN-002799
+
+## FACT-0084
+
+**Fact:** The first recorded Podiatry treatment on 14 September 2017 documented callus at the left fifth MTPJ, tight gastrocnemius and soleus muscles, and provided callus removal, bilateral toe props and calf-stretching advice; the patient stated that his gait had previously been very bad but was no longer so.
+
+**Source:** CLIN-002864–CLIN-002878
+
+## FACT-0085
+
+**Fact:** On 26 October 2017, Podiatry documented a painful corn/HD with macerated surrounding skin at the left fifth MTPJ after the patient had used salicylic corn plasters, enucleated the lesion, offloaded the fifth MTPJ and took a template for an insole designed to offload that site.
+
+**Source:** CLIN-002882–CLIN-002895
+
+## FACT-0086
+
+**Fact:** On 25 January 2018, Podiatry again documented an HD at the left fifth MTPJ, fitted new insoles, enucleated the lesion and supplied bilateral toe props for digits 2–4.
+
+**Source:** CLIN-002898–CLIN-002911
+
+## FACT-0087
+
+**Fact:** On 22 February 2018, Podiatry recorded recurrent callus at the left fifth MTPJ, debrided it and supplied a donut pad for local offloading; the patient had not brought his insoles to that review.
+
+**Source:** CLIN-002914–CLIN-002926
+
+## FACT-0088
+
+**Fact:** On 22 March 2018, Podiatry recorded clawed toes and recurrent callus at the left fifth MTPJ, debrided the callus and made new bilateral toe props.
+
+**Source:** CLIN-002929–CLIN-002942
+
+## FACT-0089
+
+**Fact:** At the 7 December 2018 Podiatry review, the patient reported that toe props were very effective but that the prior insoles were unsatisfactory because he slipped in them; Podiatry supplied revised insoles with specific fifth-MTPJ offloading and renewed toe props.
+
+**Source:** CLIN-002966–CLIN-002973
+
+## FACT-0090
+
+**Fact:** On 25 March 2019, Podiatry documented callus at the apices of both third toes and callus overlying an HD at the left fifth MTPJ, debrided and enucleated the lesions, and recorded that the delivered insoles did not match the requested prescription and had to be remade.
+
+**Source:** CLIN-002976–CLIN-002988
+
+## FACT-0091
+
+**Fact:** The Podiatry system records distinguish referral on 10 April 2017, registration on 10 July 2017, first treatment on 14 September 2017 and last recorded attendance on 25 March 2019.
+
+**Source:** CLIN-002822–CLIN-002839
