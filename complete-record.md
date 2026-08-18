@@ -3967,3 +3967,112 @@ CLIN-003227  > I received the results of [Patient]'s genetic tests. They confirm
 CLIN-003228  **Signed:** [Consultant Neurologist], St Vincent's University Hospital
 
 CLIN-003229  **Transcription note:** Identifiers and non-essential private details have been redacted; the clinical conclusion is transcribed from the supplied original letter.
+
+CLIN-003230  # DOCUMENT 21 — Monaghan Clinical Complaint Response — 2025-03-25
+
+CLIN-003231  # Department of Neurology — Consultant Neurologist Response
+
+CLIN-003232  **Source:** Four-page PDF supplied directly by the patient.
+CLIN-003233  **Document type:** Consultant neurologist response to Quality and Patient Safety complaint.
+CLIN-003234  **Date:** 25/03/2025
+CLIN-003235  **Author:** Dr Thomas Monaghan, Consultant Neurologist
+CLIN-003236  **Recipient:** Quality and Patient Safety Department
+CLIN-003237  **Transcription status:** Substantive transcription from supplied PDF. Patient identifiers and non-essential private details have been generalised.
+
+CLIN-003238  ## Response
+
+CLIN-003239  > Thank you for sending me on the complaint, sent to the Quality and Safety Department, from [Patient]. I am truly very, very sorry that this has been [Patient]'s experience. I have known [Patient] for a long time and I did not understand that this was how he felt. I have realised the pain and discomfort that he has gone through with this, as documented including in his most recent letters — but I did not understand that this was how he felt. Therefore I am truly very sorry indeed.
+
+CLIN-003240  > Whatever the underlying cause for the peripheral neuropathic pain symptomatologies that [Patient] has, it is our belief and understanding that [Patient] has idiopathic Parkinson's disease.
+
+CLIN-003241  > Parkinson's disease management in a younger person is difficult. The Parkinson's condition will magnify symptomatology from other causes. We call these "non-motor complications" of Parkinson's disease. This includes pain.
+
+CLIN-003242  > As a simple analogy if someone had had a serious back injury and was left in chronic pain — we would expect them to have a much worse experience of their pain, because of their Parkinson's disease especially when the effect of the Levodopa Sinemet tablets are wearing off.
+
+CLIN-003243  > In particular as [Patient] noted, when he has the effects of the Sinemet tablets, there is less experience of pain. This is the older Sinemet effects and also the recent Sinemet controlled release that he has talked of in his own account and as was noted.
+
+CLIN-003244  > Of itself, we do not think that intrinsically Parkinson's disease directly "causes all pain" that a person with Parkinson's disease may have. But as above it will most certainly magnify the experience of pain — of whatever cause.
+
+CLIN-003245  > However, Parkinson's disease management with more and more Sinemet becomes especially difficult in the setting of a younger person. We will commonly quote a risk of 50% of patients on Levodopa treatment developing troublesome dyskinesias (abnormal excessive movements) by about 5 years of treatment, and there are other significant and serious complications including Dopamine Dysregulation Syndrome.
+
+CLIN-003246  > These problems are more prominent in younger people, who will be left with these consequences for longer periods of time. This is why I have been careful and slow in increasing his treatment.
+
+CLIN-003247  > I fully accept and respect [Patient]'s account of things. However, [Patient] has been on treatment with Sinemet for quite some time. As the letters show, we have had a clear understanding for quite some time that Sinemet does help his pain.
+
+CLIN-003248  > My reluctance to increase his Sinemet treatment quickly was because of concerns of evolution of the dyskinesia and obviously the other risks.
+
+CLIN-003249  > "If there is a degree of peripheral neuropathy here, the alcohol being gone will hopefully slow the deterioration of that."
+
+CLIN-003250  > As can be seen we are not blaming the alcohol to the exclusion of the consideration of any other cause.
+
+CLIN-003251  > "He knows very well that once the Sinemet hits his system that the feet feel better from a pain perspective. That is commonly described. Sinemet should not do anything for pain but it will relieve the experience of pain to at least some degree. For example if he had had old serious ankle or leg fractures that were still playing up Sinemet would probably make them feel better as well."
+
+CLIN-003252  > As can be seen we have completely accepted the beneficial effect that a person with Parkinson's may have on the experience of pain of whatever cause, from Sinemet. But this is couched in concerns of the sustainability of the benefit that might be achieved and the risks of side effects especially in the longer term, especially in a younger person.
+
+CLIN-003253  > [Patient] explains his concern that everything has been framed as an "alcohol related peripheral neuropathy". I do accept the different perceptions of the person and the provider, but I think that everything has been very clearly framed in the larger context of our concern and understanding of his Parkinson's disorder.
+
+CLIN-003254  > From the very outset the majority of everything that has been done has been about [Patient]'s Parkinson's. For my own account, I can only say that I always tried to do what I felt was right and appropriate at a given point in time, and to gently and sensitively communicate that.
+
+CLIN-003255  > We have had a second opinion for [Patient] in the very early stages of his condition, from Professor Daniel Healy, a noted Parkinson's Disease expert in Dublin at Beaumont Hospital.
+
+CLIN-003256  > When [Patient] explained his concerns in recent years that he did not really have Parkinson's disease, I have tried to oblige him by requesting another isotope DAT scan, even when I believed that he did have Parkinson's disease.
+
+CLIN-003257  > I have tried to answer and explore whatever concerns he has had. I have always completely accepted that I may be wrong.
+
+CLIN-003258  > It was a reasonable possibility that alcohol intake at the amounts described may have been in some way contributory to the neuropathic symptoms. Because Parkinson's disease is not ordinarily for the vast majority of people a condition with prominent features of neuropathic pain, it is reasonable to question that there was another cause for the severity of the pain [Patient] has experienced.
+
+CLIN-003259  > Where [Patient] explains he independently started Sinemet CR in March 2025, I'm not certain if this was separate to my own prescription for Sinemet CR in March 2025 two weeks ago or by another doctor/consultant.
+
+CLIN-003260  > In 2017 very openly and very explicitly the following passage was written and discussed very clearly, at the very beginning:
+
+CLIN-003261  > "[Patient] has a good understanding of why we wished to delay the commencement of levodopa or dopamine agonist type treatments at least for now."
+
+CLIN-003262  > "I think sooner or later we may have to introduce these. It is possible that he will do very well with levodopa and in a sustainable way whenever it is started. Indeed in time to come — we may regret that we did not start this earlier. However you will understand our delay at the moment as part of the strategy to try to make sure that [Patient] has the best possible long-term outcome."
+
+CLIN-003263  > In essence we have known that [Patient] has Parkinson's; we have known it would be Sinemet or other dopamine agonist responsive; we have tried to spare commencing those for some time as is common practice in the management of younger people with Parkinson's.
+
+CLIN-003264  > He has been on Sinemet treatment for some time and we have accepted certain consequence of that which we have managed; it has been known and acknowledged that Sinemet helps his experience of ongoing pain.
+
+CLIN-003265  > His Lyrica pregabalin treatment was introduced for the neuropathic pain, of whatever cause, in part to try to spare further Sinemet increase; his Lyrica treatment, admittedly with incomplete effect at maximum dose, was self-reduced; his pain deteriorated.
+
+CLIN-003266  > Now his Sinemet treatment has been recently escalated at clinic, with a plan from clinic to do this slowly and carefully as Sinemet CR, which has provided him with profound relief currently.
+
+CLIN-003267  > In answer to his question, "This raises a fundamental question: Why was this possibility not explored earlier, given the magnitude of what Liam endured?", [Patient] has been on forms of Sinemet since September 2021 for the range of symptoms that Parkinson's is associated with.
+
+CLIN-003268  > We have tried to be careful in how this is used, and how much is used, given difficulties with previous forms of Sinemet used (Stalevo), given his young age, and given risks of dyskinesias and Dopamine Dysregulation/Impulse Control Disorders described in people with Parkinson's on these agents.
+
+CLIN-003269  > As a final note I am very, very pleased that [Patient] has had such an improvement with the Sinemet CR medication, because I can only begin to try to imagine all he had gone through in terms of pain — as he had so clearly, vividly and well described as per my letter of earlier March 2025.
+
+CLIN-003270  > I do most sincerely hope this will be sustained and be without adverse effect.
+
+CLIN-003271  > Once again I am sincerely sorry on a professional, but also very deeply on a personal level that this has been [Patient]'s experience.
+
+CLIN-003272  **Signed:** Dr Thomas Monaghan MB MRCPI
+CLIN-003273  **Role:** Consultant Neurologist
+
+CLIN-003274  # DOCUMENT 22 — Quality and Patient Safety Letter — 2025-04-15
+
+CLIN-003275  # Quality and Patient Safety Department — Galway University Hospital
+
+CLIN-003276  **Source:** One-page PDF supplied directly by the patient.
+CLIN-003277  **Document type:** Complaint-response correspondence.
+CLIN-003278  **Date:** 15/04/2025
+CLIN-003279  **Author:** Aoife Nolan, Quality & Patient Safety Coordinator and Complaints Officer
+CLIN-003280  **Transcription status:** Substantive transcription from supplied PDF. Patient identifiers and non-essential private details have been generalised.
+
+CLIN-003281  ## Letter
+
+CLIN-003282  > I refer to your complaint received by the Quality and Patient Safety Department on the 25th of March in relation to concerns of bias and diagnostic anchoring, that you feel affected how your condition was managed, in particular in relation to pain management.
+
+CLIN-003283  > You recently started Sinemet CR, which has been an effective analgesic for your foot pain.
+
+CLIN-003284  > However, you feel this particular medication was not considered by your Neurologist, possibly due to an emphasis on your history of alcohol excess, which led to prolonged and preventable pain.
+
+CLIN-003285  > When a complaint is received by the Complaints Officer and following its assessment is determined to relate to matters solely relating to clinical judgment, it must be sent to the appropriate manager for follow up under the appropriate pathway in accordance with the Health Act, 2004.
+
+CLIN-003286  > In this regard, your complaint was forwarded for the attention of Consultant Neurologist, Dr. Thomas Monaghan.
+
+CLIN-003287  > Thank you for bringing your concerns to our attention and for the opportunity to respond. We endeavour to improve our service at every opportunity to ensure we provide a high quality service to those in our care.
+
+CLIN-003288  **Signed:** Aoife Nolan
+CLIN-003289  **Role:** Quality & Patient Safety Coordinator and Complaints Officer
