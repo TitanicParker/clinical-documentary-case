@@ -3,8 +3,6 @@ name: Append 2026 genetic confirmation
 on:
   push:
     branches: [main]
-    paths:
-      - '.github/workflows/append-genetic-confirmation.yml'
 
 permissions:
   contents: write
@@ -76,5 +74,3 @@ EOF
           git add complete-record.md
           git commit -m "Append 2026 Parkin genetic confirmation to complete record"
           git push
-
-# Triggered after workflow installation so the push event is evaluated against an existing workflow.
