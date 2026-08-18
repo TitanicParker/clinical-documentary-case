@@ -545,3 +545,9 @@
 **Fact:** The Podiatry system records distinguish referral on 10 April 2017, registration on 10 July 2017, first treatment on 14 September 2017 and last recorded attendance on 25 March 2019.
 
 **Source:** CLIN-002822–CLIN-002839
+
+## FACT-0092
+
+**Fact:** In February 2026, a consultant neurologist recorded that genetic testing confirmed two pathogenic variants in the Parkin gene and concluded that the patient's Parkinsonism and dystonia were due to compound heterozygous mutations in the Parkin gene.
+
+**Source:** CLIN-003227
