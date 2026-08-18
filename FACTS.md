@@ -554,167 +554,179 @@
 
 
 
-\## FACT-0093
+## FACT-0093
 
 
 
-\*\*Fact:\*\* In his 25 March 2025 complaint response, the treating neurologist recorded the current belief and understanding that the patient had idiopathic Parkinson's disease, while describing the underlying cause of the peripheral neuropathic pain symptomatology as unresolved.
+**Fact:** In his 25 March 2025 complaint response, the treating neurologist recorded the current belief and understanding that the patient had idiopathic Parkinson's disease, while describing the underlying cause of the peripheral neuropathic pain symptomatology as unresolved.
 
 
 
-\*\*Source:\*\* CLIN-003240
+**Source:** CLIN-003240
 
 
 
 
 
-\## FACT-0094
+## FACT-0094
 
 
 
-\*\*Fact:\*\* The treating neurologist stated that Parkinson's disease could magnify pain arising from another cause, particularly when levodopa effect was wearing off, and recorded that the patient experienced less pain when Sinemet was effective.
+**Fact:** The treating neurologist stated that Parkinson's disease could magnify pain arising from another cause, particularly when levodopa effect was wearing off, and recorded that the patient experienced less pain when Sinemet was effective.
 
 
 
-\*\*Source:\*\* CLIN-003241–CLIN-003244
+**Source:** CLIN-003241–CLIN-003244
 
 
 
 
 
-\## FACT-0095
+## FACT-0095
 
 
 
-\*\*Fact:\*\* The treating neurologist stated that Neurology had had a clear understanding "for quite some time" that Sinemet helped the patient's pain.
+**Fact:** The treating neurologist stated that Neurology had had a clear understanding "for quite some time" that Sinemet helped the patient's pain.
 
 
 
-\*\*Source:\*\* CLIN-003247
+**Source:** CLIN-003247
 
 
 
 
 
-\## FACT-0096
+## FACT-0096
 
 
 
-\*\*Fact:\*\* The treating neurologist stated that his reluctance to increase Sinemet quickly was driven by concern about evolution of dyskinesia and other dopaminergic-treatment risks in a younger patient.
+**Fact:** The treating neurologist stated that his reluctance to increase Sinemet quickly was driven by concern about evolution of dyskinesia and other dopaminergic-treatment risks in a younger patient.
 
 
 
-\*\*Source:\*\* CLIN-003245–CLIN-003248
+**Source:** CLIN-003245–CLIN-003248
 
 
 
 
 
-\## FACT-0097
+## FACT-0097
 
 
 
-\*\*Fact:\*\* In addressing the proposed contribution of alcohol to neuropathic symptoms, the treating neurologist expressly stated that alcohol was not being blamed to the exclusion of consideration of other causes.
+**Fact:** In addressing the proposed contribution of alcohol to neuropathic symptoms, the treating neurologist expressly stated that alcohol was not being blamed to the exclusion of consideration of other causes.
 
 
 
-\*\*Source:\*\* CLIN-003249–CLIN-003250
+**Source:** CLIN-003249–CLIN-003250
 
 
 
 
 
-\## FACT-0098
+## FACT-0098
 
 
 
-\*\*Fact:\*\* The 2025 response reproduced the clinician's 2017 treatment rationale that levodopa or dopamine agonists were deliberately being delayed, while acknowledging that the patient might do very well on levodopa and that "we may regret that we did not start this earlier."
+**Fact:** The 2025 response reproduced the clinician's 2017 treatment rationale that levodopa or dopamine agonists were deliberately being delayed, while acknowledging that the patient might do very well on levodopa and that "we may regret that we did not start this earlier."
 
 
 
-\*\*Source:\*\* CLIN-003260–CLIN-003262
+**Source:** CLIN-003260–CLIN-003262
 
 
 
 
 
-\## FACT-0099
+## FACT-0099
 
 
 
-\*\*Fact:\*\* The treating neurologist stated retrospectively that the team had known the patient's Parkinsonism would be responsive to Sinemet or another dopamine agonist and had intentionally tried to defer commencement of those treatments because of the difficulties of treating very young Parkinson's disease.
+**Fact:** The treating neurologist stated retrospectively that the team had known the patient's Parkinsonism would be responsive to Sinemet or another dopamine agonist and had intentionally tried to defer commencement of those treatments because of the difficulties of treating very young Parkinson's disease.
 
 
 
-\*\*Source:\*\* CLIN-003263–CLIN-003264
+**Source:** CLIN-003263–CLIN-003264
 
 
 
 
 
-\## FACT-0100
+## FACT-0100
 
 
 
-\*\*Fact:\*\* The treating neurologist stated that pregabalin had been introduced for neuropathic pain, whatever its cause, partly to avoid further Sinemet escalation; he recorded that pregabalin had incomplete effect even at maximum dose, was later self-reduced, and that the pain subsequently deteriorated.
+**Fact:** The treating neurologist stated that pregabalin had been introduced for neuropathic pain, whatever its cause, partly to avoid further Sinemet escalation; he recorded that pregabalin had incomplete effect even at maximum dose, was later self-reduced, and that the pain subsequently deteriorated.
 
 
 
-\*\*Source:\*\* CLIN-003265
+**Source:** CLIN-003265
 
 
 
 
 
-\## FACT-0101
+## FACT-0101
 
 
 
-\*\*Fact:\*\* The treating neurologist recorded that the recent cautious escalation to Sinemet CR had provided the patient with "profound relief currently."
+**Fact:** The treating neurologist recorded that the recent cautious escalation to Sinemet CR had provided the patient with "profound relief currently."
 
 
 
-\*\*Source:\*\* CLIN-003266
+**Source:** CLIN-003266
 
 
 
 
 
-\## FACT-0102
+## FACT-0102
 
 
 
-\*\*Fact:\*\* The treating neurologist recorded that the patient had shown substantial improvement with Sinemet CR and expressed the hope that the improvement would be sustained without adverse effects.
+**Fact:** The treating neurologist recorded that the patient had shown substantial improvement with Sinemet CR and expressed the hope that the improvement would be sustained without adverse effects.
 
 
 
-\*\*Source:\*\* CLIN-003269–CLIN-003270
+**Source:** CLIN-003269–CLIN-003270
 
 
 
 
 
-\## FACT-0103
+## FACT-0103
 
 
 
-\*\*Fact:\*\* On 15 April 2025, the Quality and Patient Safety Coordinator recorded that the patient had recently started Sinemet CR and that it had been an effective analgesic for his foot pain.
+**Fact:** On 15 April 2025, the Quality and Patient Safety Coordinator recorded that the patient had recently started Sinemet CR and that it had been an effective analgesic for his foot pain.
 
 
 
-\*\*Source:\*\* CLIN-003282–CLIN-003283
+**Source:** CLIN-003282–CLIN-003283
 
 
 
 
 
-\## FACT-0104
+## FACT-0104
 
 
 
-\*\*Fact:\*\* The same 15 April 2025 letter recorded the patient's contention that Sinemet CR had not been considered earlier, possibly because of emphasis on his history of alcohol excess, and that this had resulted in prolonged and preventable pain.
+**Fact:** The same 15 April 2025 letter recorded the patient's contention that Sinemet CR had not been considered earlier, possibly because of emphasis on his history of alcohol excess, and that this had resulted in prolonged and preventable pain.
 
 
 
-\*\*Source:\*\* CLIN-003284
+**Source:** CLIN-003284
+
+
+
+\## FACT-0105
+
+
+
+\*\*Fact:\*\* Across the eight represented Podiatry treatment encounters between 14 September 2017 and 25 March 2019, each encounter documented pathology at or centred on the left fifth metatarsophalangeal joint, while several encounters also documented toe clawing/deformity and continued local mechanical treatment.
+
+
+
+\*\*Source:\*\* CLIN-002864–CLIN-002878, CLIN-002882–CLIN-002895, CLIN-002898–CLIN-002911, CLIN-002914–CLIN-002955, CLIN-002958–CLIN-002973, CLIN-002976–CLIN-002988
 
